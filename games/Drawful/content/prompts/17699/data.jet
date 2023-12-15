@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Pusvalandis su rodykle rodancia i laikrodi",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pusvalandis su rodykle rodančia į laikrodį",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

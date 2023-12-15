@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "po dvieju keliniu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "po dviejų kėlinių",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

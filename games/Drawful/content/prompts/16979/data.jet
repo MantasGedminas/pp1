@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "akla saule",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "akla saulė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

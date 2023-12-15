@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Sios rupuzes nutukusios!|Šios rupužės nutukusios|Sios rupuzes nutukusios",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Šios rupužės nutukusios!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

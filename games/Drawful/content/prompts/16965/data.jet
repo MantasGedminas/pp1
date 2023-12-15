@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "pagrindinis vakarelis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "pagrindinis vakarėlis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

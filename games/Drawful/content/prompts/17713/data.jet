@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Pralaimejimas zaidziant kartuves",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pralaimėjimas žaidžiant kartuves",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

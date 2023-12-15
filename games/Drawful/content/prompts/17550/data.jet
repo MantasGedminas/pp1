@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "TV zaidimas milzinams",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "TV žaidimas milžinams",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370226_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

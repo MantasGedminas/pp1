@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kouboju filmas apie agurkus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Koubojų filmas apie agurkus",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

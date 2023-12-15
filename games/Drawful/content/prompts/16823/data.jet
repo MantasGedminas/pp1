@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "setono namas|šėtono namai|setono namai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "šėtono namas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

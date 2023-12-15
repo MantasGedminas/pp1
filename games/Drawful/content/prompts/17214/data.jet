@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kova prieš narkotikus|Kova pries narkotikus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kova su narkotikais",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

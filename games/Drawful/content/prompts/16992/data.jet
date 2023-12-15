@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "uzsislapstines arklys|pasislėpęs arklys|pasislepes arklys",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "užsislapstinęs arklys",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

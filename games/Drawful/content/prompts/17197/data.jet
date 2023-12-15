@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Bezdeti per langa",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Bezdėti per langą",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Piiirk telefona is tele duuu, daug piniguuu gauk dovanuuu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Piiirk telefoną iš tele duuu, daug pinigųųų gauk dovanųųų",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Juru kiaulyte valganti dangoraiži",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Jūrų kiaulytė valganti dangoraižį",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370218_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

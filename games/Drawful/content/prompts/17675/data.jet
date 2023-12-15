@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Studentiskas riesutu misinys",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Studentiškas riešutų mišinys",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

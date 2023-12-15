@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Bermudų trikampis|Bermudu trikampis|Bermudos trikampis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bermudų trikampis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

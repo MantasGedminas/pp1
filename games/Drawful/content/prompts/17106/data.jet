@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Kompiuterinis virusas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Kompiuterio virusas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

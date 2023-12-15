@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "<RANDOM_PLAYER_NAME> pats blogiausias",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369508_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

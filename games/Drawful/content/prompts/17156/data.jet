@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Niekam sporto saleje jis nepatinka",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Niekam sporto salėje jis nepatinka",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

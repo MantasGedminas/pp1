@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Brangus aptempti dzinsai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Brangūs aptempti džinsai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

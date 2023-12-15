@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "internetinis susitikinėjimas|internetinis susitikinejimas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "internetinis deitinimas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

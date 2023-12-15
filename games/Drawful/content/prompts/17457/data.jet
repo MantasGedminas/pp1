@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Stalo futbolo zmogeliukas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Stalo futbolo žmogeliukas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

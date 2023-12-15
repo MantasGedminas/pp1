@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Plauk banglente arba mirk",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Plauk banglente arba mirk!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

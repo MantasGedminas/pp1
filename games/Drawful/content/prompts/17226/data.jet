@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Bambos pukai|Pūkai iš bambos|Pukai is bambos",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bambos pūkai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

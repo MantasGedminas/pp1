@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Tevelio bajeriai",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Tėvelio bajeriai",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

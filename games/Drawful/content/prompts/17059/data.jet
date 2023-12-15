@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Blogai pasibaiges pokstas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Blogai pasibaigęs pokštas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

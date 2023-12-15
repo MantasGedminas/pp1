@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "panelė vaiduoklis|merginos vaiduoklis|mergina vaiduoklis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "panelės vaiduoklis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

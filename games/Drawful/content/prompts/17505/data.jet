@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Andrius Mamontovas isbezdantis strelytes",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Andrius Mamontovas išbezdantis strėlytes",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370133_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

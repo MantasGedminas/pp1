@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Romeniskais skaiciais 94|94 Romėniškais skaičiais|94 Romeniskais skaiciais",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Romėniškais skaičiais 94",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

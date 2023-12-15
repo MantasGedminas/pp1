@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Gera stovejimo aiksteles vieta",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Gera stovėjimo aikštelės vieta",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

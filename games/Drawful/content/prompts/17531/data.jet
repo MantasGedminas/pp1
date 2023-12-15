@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Sudukas ant pagaliuko",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Šudukas ant pagaliuko",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370188_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

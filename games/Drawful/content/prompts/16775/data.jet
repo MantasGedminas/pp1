@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "veidas ir strėlė į nosį|strėlė rodanti į nosį|į nosį rodanti strėlė",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "veidas ir strėlė rodanti į nosį",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368513_2",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

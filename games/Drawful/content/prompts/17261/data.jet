@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Olandijos orkaite|Olandijos orkaitė|Olandiska orkaite",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Olandiška orkaitė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

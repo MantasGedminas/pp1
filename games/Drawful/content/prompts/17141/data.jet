@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Kraustausi gyventi su Santa|Kraustausi gyventi su kaledu seniu",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Kraustausi gyventi su Santa Klausu",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

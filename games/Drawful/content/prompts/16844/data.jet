@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "nematoma masina|nematomas automobilis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "nematoma mašina",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

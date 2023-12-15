@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kvapas smirdintis kiausiniais|Kvapas smirdantis kiaušiniais|Kvapas smirdantis kiausiniais",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kvapas smirdintis kiaušiniais",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

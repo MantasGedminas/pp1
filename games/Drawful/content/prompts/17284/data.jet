@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Duoti priesaika su kita ranka",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Duoti priesaiką su kita ranka",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

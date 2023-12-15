@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "sapnas sapne",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kai sapnuoji kad sapnuoji",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

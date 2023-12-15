@@ -1,0 +1,4045 @@
+{
+  "episodeid": 1209,
+  "items": [
+    {
+      "id": 17805,
+      "text": "automobilio pavydas"
+    },
+    {
+      "id": 17804,
+      "text": "statybų kodekso pažeidimas"
+    },
+    {
+      "id": 17803,
+      "text": "tritaškių zonos baidyklė"
+    },
+    {
+      "id": 17802,
+      "text": "netikėtas kaspiniuotis"
+    },
+    {
+      "id": 17801,
+      "text": "purvinas magiškas kilimas"
+    },
+    {
+      "id": 17800,
+      "text": "vaistinė"
+    },
+    {
+      "id": 17786,
+      "text": "labai netikėliškai nupiešta katė"
+    },
+    {
+      "id": 17785,
+      "text": "Žąsys"
+    },
+    {
+      "id": 17784,
+      "text": "Penki žodžiai"
+    },
+    {
+      "id": 17783,
+      "text": "magnetinė šuniuko kepurė su žvaigždėmis"
+    },
+    {
+      "id": 17782,
+      "text": "Raudonplaukis berniukas"
+    },
+    {
+      "id": 17781,
+      "text": "tik akys"
+    },
+    {
+      "id": 17780,
+      "text": "Twitch"
+    },
+    {
+      "id": 17779,
+      "text": "Į sveikatą!!!!!!"
+    },
+    {
+      "id": 17778,
+      "text": "Delnų kova"
+    },
+    {
+      "id": 17777,
+      "text": "kontora"
+    },
+    {
+      "id": 17776,
+      "text": "Šypsojimasis"
+    },
+    {
+      "id": 17775,
+      "text": "bezdalų bomba"
+    },
+    {
+      "id": 17774,
+      "text": "Smūgis į koją"
+    },
+    {
+      "id": 17773,
+      "text": "Pralaimėtojai"
+    },
+    {
+      "id": 17772,
+      "text": "Atsargiai!! Moksliukai!!!"
+    },
+    {
+      "id": 17771,
+      "text": "Banko apiplėšimas"
+    },
+    {
+      "id": 17770,
+      "text": "Gyvatė skalbimo mašinoje"
+    },
+    {
+      "id": 17769,
+      "text": "Sulaukėjęs vaikas"
+    },
+    {
+      "id": 17768,
+      "text": "Lietuvių kalba man antra"
+    },
+    {
+      "id": 17767,
+      "text": "Plikas kaip tilvikas"
+    },
+    {
+      "id": 17766,
+      "text": "Žaidžiam ALI BABA"
+    },
+    {
+      "id": 17765,
+      "text": "Žaidžiam butelį"
+    },
+    {
+      "id": 17764,
+      "text": "saldainių dėdis"
+    },
+    {
+      "id": 17763,
+      "text": "Tabako korpuracija"
+    },
+    {
+      "id": 17762,
+      "text": "Meilės daina"
+    },
+    {
+      "id": 17761,
+      "text": "x-failai"
+    },
+    {
+      "id": 17760,
+      "text": "Vienas su savo mintimis"
+    },
+    {
+      "id": 17759,
+      "text": "Kalnas kosmose"
+    },
+    {
+      "id": 17758,
+      "text": "Pusė arklio, pusė seselės"
+    },
+    {
+      "id": 17757,
+      "text": "Chaosas"
+    },
+    {
+      "id": 17756,
+      "text": "Meilė ir krepšinis"
+    },
+    {
+      "id": 17755,
+      "text": "Pyragų festivalis"
+    },
+    {
+      "id": 17754,
+      "text": "Kepta jautiena"
+    },
+    {
+      "id": 17753,
+      "text": "Puma"
+    },
+    {
+      "id": 17752,
+      "text": "Į klubą apsivilkęs močiutės rūbą"
+    },
+    {
+      "id": 17751,
+      "text": "Vaško muziejus"
+    },
+    {
+      "id": 17750,
+      "text": "Policijos žudiko eskizas"
+    },
+    {
+      "id": 17749,
+      "text": "Laaaabai didelis siuntinys"
+    },
+    {
+      "id": 17748,
+      "text": "Sraigė su vokeliu"
+    },
+    {
+      "id": 17747,
+      "text": "Laukiamasis"
+    },
+    {
+      "id": 17745,
+      "text": "Šeimos sraigtasparnis"
+    },
+    {
+      "id": 17744,
+      "text": "Skraidantis ruonis"
+    },
+    {
+      "id": 17743,
+      "text": "Pasiduodu"
+    },
+    {
+      "id": 17742,
+      "text": "Pernykštė žemė"
+    },
+    {
+      "id": 17741,
+      "text": "Avataras"
+    },
+    {
+      "id": 17740,
+      "text": "Pokaitukai diskotekoje"
+    },
+    {
+      "id": 17739,
+      "text": "Blogas elgesys"
+    },
+    {
+      "id": 17738,
+      "text": "Durnelis kuris nerenka savo šuns minų"
+    },
+    {
+      "id": 17737,
+      "text": "Atsukam atgal"
+    },
+    {
+      "id": 17736,
+      "text": "Tu atleistas!"
+    },
+    {
+      "id": 17735,
+      "text": "Interneto filmų duomenų bazė"
+    },
+    {
+      "id": 17734,
+      "text": "Vizginimas"
+    },
+    {
+      "id": 17733,
+      "text": "Bernužėlis su čeburėkais nosyje"
+    },
+    {
+      "id": 17732,
+      "text": "Palaidotas princas"
+    },
+    {
+      "id": 17731,
+      "text": "Negyvas medis"
+    },
+    {
+      "id": 17730,
+      "text": "Pila kaip iš kibiro"
+    },
+    {
+      "id": 17729,
+      "text": "Išėjimas kairėje"
+    },
+    {
+      "id": 17728,
+      "text": "Neužmiegu per tuos paukščius"
+    },
+    {
+      "id": 17727,
+      "text": "Darbas iš namų"
+    },
+    {
+      "id": 17726,
+      "text": "Supuvęs saldainis"
+    },
+    {
+      "id": 17725,
+      "text": "Stovimas stalas"
+    },
+    {
+      "id": 17724,
+      "text": "Filmų agentas"
+    },
+    {
+      "id": 17722,
+      "text": "Maišelis su baisiais dantimis"
+    },
+    {
+      "id": 17721,
+      "text": "Šešėlių pabaisa"
+    },
+    {
+      "id": 17720,
+      "text": "Milžinas su miniatiūriniu kūdikiu"
+    },
+    {
+      "id": 17719,
+      "text": "Krūta auklė"
+    },
+    {
+      "id": 17718,
+      "text": "Rusų šnipinėjimas"
+    },
+    {
+      "id": 17717,
+      "text": "Netikras dokumentas"
+    },
+    {
+      "id": 17716,
+      "text": "Slepiamas banginis"
+    },
+    {
+      "id": 17715,
+      "text": "Gyvenimo žaidimas"
+    },
+    {
+      "id": 17714,
+      "text": "Apyrankė iš cinamoninės bandelės"
+    },
+    {
+      "id": 17713,
+      "text": "Pralaimėjimas žaidžiant kartuves"
+    },
+    {
+      "id": 17712,
+      "text": "Identiški dvyniai"
+    },
+    {
+      "id": 17711,
+      "text": "Vaiko nupieštas šeimos paveikslas"
+    },
+    {
+      "id": 17710,
+      "text": "Ekstremalus besmegenio lipdymas"
+    },
+    {
+      "id": 17709,
+      "text": "Filosofas"
+    },
+    {
+      "id": 17708,
+      "text": "Pusryčiai lovoje"
+    },
+    {
+      "id": 17707,
+      "text": "Slėpynės"
+    },
+    {
+      "id": 17706,
+      "text": "Pikaso"
+    },
+    {
+      "id": 17705,
+      "text": "Piiirk telefoną iš tele duuu, daug pinigųųų gauk dovanųųų"
+    },
+    {
+      "id": 17704,
+      "text": "Žiedų valdovas"
+    },
+    {
+      "id": 17703,
+      "text": "Gražiai pasidažęs dramblys"
+    },
+    {
+      "id": 17702,
+      "text": "Andrius Tapinas"
+    },
+    {
+      "id": 17701,
+      "text": "Medelių sodinimas"
+    },
+    {
+      "id": 17700,
+      "text": "Smirdintis rankų kremas"
+    },
+    {
+      "id": 17699,
+      "text": "Pusvalandis su rodykle rodančia į laikrodį"
+    },
+    {
+      "id": 17698,
+      "text": "Drugelių valgymas"
+    },
+    {
+      "id": 17697,
+      "text": "Tu man ne tėvas!"
+    },
+    {
+      "id": 17696,
+      "text": "Greičiau pasveik"
+    },
+    {
+      "id": 17695,
+      "text": "Labai daug gėlių"
+    },
+    {
+      "id": 17694,
+      "text": "Hipopotamas su bazūka"
+    },
+    {
+      "id": 17693,
+      "text": "Virtuvės nelaimė"
+    },
+    {
+      "id": 17692,
+      "text": "Piktas dėdis po lova"
+    },
+    {
+      "id": 17691,
+      "text": "Vilkas su gigantišku magnetu"
+    },
+    {
+      "id": 17690,
+      "text": "Socialinis tinklas"
+    },
+    {
+      "id": 17689,
+      "text": "Orkestras"
+    },
+    {
+      "id": 17688,
+      "text": "Dangus"
+    },
+    {
+      "id": 17687,
+      "text": "Raudonas gėrimas"
+    },
+    {
+      "id": 17686,
+      "text": "Gera stovėjimo aikštelės vieta"
+    },
+    {
+      "id": 17685,
+      "text": "Sabonis"
+    },
+    {
+      "id": 17684,
+      "text": "Skandalas"
+    },
+    {
+      "id": 17683,
+      "text": "Raudono kilimo interviu"
+    },
+    {
+      "id": 17682,
+      "text": "Automobilių pardavėjas su barzda"
+    },
+    {
+      "id": 17681,
+      "text": "Pabėgimui skirtas laivas"
+    },
+    {
+      "id": 17680,
+      "text": "Fantazijos futbolas"
+    },
+    {
+      "id": 17679,
+      "text": "Plėšomos kelnės"
+    },
+    {
+      "id": 17678,
+      "text": "Manekenas"
+    },
+    {
+      "id": 17677,
+      "text": "Daugkartinio naudojimo maišelis"
+    },
+    {
+      "id": 17676,
+      "text": "Pokaitukas"
+    },
+    {
+      "id": 17675,
+      "text": "Studentiškas riešutų mišinys"
+    },
+    {
+      "id": 17674,
+      "text": "Nuomota mašina"
+    },
+    {
+      "id": 17673,
+      "text": "Žiūrėjimas į savo portretą"
+    },
+    {
+      "id": 17672,
+      "text": "Juoda duona"
+    },
+    {
+      "id": 17671,
+      "text": "Apsimeti kietu nors ir apsišlapinai"
+    },
+    {
+      "id": 17670,
+      "text": "Blogų berniukų kampelis"
+    },
+    {
+      "id": 17669,
+      "text": "Kojinės su gyvuniukais"
+    },
+    {
+      "id": 17668,
+      "text": "Gero vakaro laida vedama moters"
+    },
+    {
+      "id": 17667,
+      "text": "Tu išmestas iš grupės"
+    },
+    {
+      "id": 17666,
+      "text": "Moterys Meluoja Geriau"
+    },
+    {
+      "id": 17665,
+      "text": "Skambutis iš žudiko"
+    },
+    {
+      "id": 17664,
+      "text": "Paspausk mygtuką gauk šūduką"
+    },
+    {
+      "id": 17663,
+      "text": "Viešasis tuoletas"
+    },
+    {
+      "id": 17662,
+      "text": "Nerandu savo kūdikio"
+    },
+    {
+      "id": 17661,
+      "text": "O ne, mes neapsidraudę!"
+    },
+    {
+      "id": 17660,
+      "text": "Džiazo rankelės"
+    },
+    {
+      "id": 17659,
+      "text": "Paskutinės Titaniko akimirkos"
+    },
+    {
+      "id": 17658,
+      "text": "Mano praeitis mane sekioja"
+    },
+    {
+      "id": 17657,
+      "text": "Šmaikštūs marškinėliai"
+    },
+    {
+      "id": 17656,
+      "text": "Batonėlis įstrigęs aparate"
+    },
+    {
+      "id": 17655,
+      "text": "Sūrelis"
+    },
+    {
+      "id": 17654,
+      "text": "Lėktuvo ratai iš sraigių"
+    },
+    {
+      "id": 17653,
+      "text": "Šiukšlių naikintuvas"
+    },
+    {
+      "id": 17652,
+      "text": "Beizbolo pirštinė trina ranką"
+    },
+    {
+      "id": 17651,
+      "text": "Garsus mimas"
+    },
+    {
+      "id": 17650,
+      "text": "VMI"
+    },
+    {
+      "id": 17649,
+      "text": "Nekenčiu šitos lempos"
+    },
+    {
+      "id": 17648,
+      "text": "Klouno durų skambutis"
+    },
+    {
+      "id": 17647,
+      "text": "Per mažas kastuvas"
+    },
+    {
+      "id": 17646,
+      "text": "Kapitalizmas"
+    },
+    {
+      "id": 17645,
+      "text": "Šūdžius"
+    },
+    {
+      "id": 17644,
+      "text": "Šviečiantis grybo kotas"
+    },
+    {
+      "id": 17643,
+      "text": "Bugnas iš sausainių"
+    },
+    {
+      "id": 17642,
+      "text": "Emo antis"
+    },
+    {
+      "id": 17641,
+      "text": "Naktinė bažnyčia"
+    },
+    {
+      "id": 17640,
+      "text": "Kampuoti rūbai"
+    },
+    {
+      "id": 17639,
+      "text": "Apsimiegojęs saksofono muzikantas"
+    },
+    {
+      "id": 17638,
+      "text": "Per daug pinigų turėjau tai ir nusipirkau mašiną"
+    },
+    {
+      "id": 17637,
+      "text": "Perdurtas žvaigždėmis"
+    },
+    {
+      "id": 17636,
+      "text": "Apnuodijimo sąžinės graužatis"
+    },
+    {
+      "id": 17635,
+      "text": "Iš kur tas arklys mano fermoje?"
+    },
+    {
+      "id": 17634,
+      "text": "draugs draugs kol išrauks"
+    },
+    {
+      "id": 17633,
+      "text": "Baisi statula"
+    },
+    {
+      "id": 17632,
+      "text": "Mirties lazeriai"
+    },
+    {
+      "id": 17631,
+      "text": "Šlykštūs nykščiai"
+    },
+    {
+      "id": 17630,
+      "text": "Kas nori nužudyti Mia pabaiga"
+    },
+    {
+      "id": 17629,
+      "text": "Mano netflikso biblioteka"
+    },
+    {
+      "id": 17628,
+      "text": "Gyvūno darymas iš baliono"
+    },
+    {
+      "id": 17627,
+      "text": "Naujų metų pažadai"
+    },
+    {
+      "id": 17626,
+      "text": "Stipruolis traukiantis sunkvežimį"
+    },
+    {
+      "id": 17625,
+      "text": "Internetinis video apie kačiukus"
+    },
+    {
+      "id": 17624,
+      "text": "1 akį merkianti žuvis"
+    },
+    {
+      "id": 17623,
+      "text": "Nereikėjo mums pirkti šio namo"
+    },
+    {
+      "id": 17622,
+      "text": "Žiurkės mumija"
+    },
+    {
+      "id": 17621,
+      "text": "Vėmimas ant kūdikio"
+    },
+    {
+      "id": 17620,
+      "text": "Taip pareigūne, jis mane apiplėšė!"
+    },
+    {
+      "id": 17619,
+      "text": "Atšildytas urvinis žmogus dirbantis teisininku"
+    },
+    {
+      "id": 17618,
+      "text": "Sliekų sriuba"
+    },
+    {
+      "id": 17617,
+      "text": "Grifka"
+    },
+    {
+      "id": 17616,
+      "text": "Žodžiai"
+    },
+    {
+      "id": 17615,
+      "text": "Pipirai"
+    },
+    {
+      "id": 17614,
+      "text": "Ar gali šiame paveikslėlyje rasti paukštį?"
+    },
+    {
+      "id": 17613,
+      "text": "Kietai atrodantis randas"
+    },
+    {
+      "id": 17612,
+      "text": "Plazmos pardavinėjimas"
+    },
+    {
+      "id": 17611,
+      "text": "Pagiringa nindzė"
+    },
+    {
+      "id": 17610,
+      "text": "Garas"
+    },
+    {
+      "id": 17609,
+      "text": "Ikrų kibiras"
+    },
+    {
+      "id": 17608,
+      "text": "Traktorių lenktynės"
+    },
+    {
+      "id": 17607,
+      "text": "Ugnikalnio katės"
+    },
+    {
+      "id": 17606,
+      "text": "Apatinė laisvės statulos dalis"
+    },
+    {
+      "id": 17605,
+      "text": "Juoda ir balta"
+    },
+    {
+      "id": 17604,
+      "text": "Įlenkimai"
+    },
+    {
+      "id": 17603,
+      "text": "Didelis akmuo tuoj sutrėkš žmogų"
+    },
+    {
+      "id": 17602,
+      "text": "KTU"
+    },
+    {
+      "id": 17601,
+      "text": "Jonukas ir Gretutė"
+    },
+    {
+      "id": 17600,
+      "text": "Pasaka"
+    },
+    {
+      "id": 17599,
+      "text": "Stiklo putėja"
+    },
+    {
+      "id": 17598,
+      "text": "Pamaloninti"
+    },
+    {
+      "id": 17597,
+      "text": "Ji angelas ne žmogus"
+    },
+    {
+      "id": 17596,
+      "text": "Sugedęs majonezas"
+    },
+    {
+      "id": 17595,
+      "text": "Sportuojantis skunkas"
+    },
+    {
+      "id": 17594,
+      "text": "Driežas snaiperis"
+    },
+    {
+      "id": 17593,
+      "text": "Baritonas"
+    },
+    {
+      "id": 17592,
+      "text": "Šaltis ateinantis iš vakarų"
+    },
+    {
+      "id": 17591,
+      "text": "Vaikai miuzikle"
+    },
+    {
+      "id": 17590,
+      "text": "Pabėgimas iš požeminio kalėjimo"
+    },
+    {
+      "id": 17589,
+      "text": "Šoklys"
+    },
+    {
+      "id": 17588,
+      "text": "Prasmirdęs verslo savininkas"
+    },
+    {
+      "id": 17587,
+      "text": "Iliuminati"
+    },
+    {
+      "id": 17586,
+      "text": "Didelis parkas mieste"
+    },
+    {
+      "id": 17585,
+      "text": "Servetėlė su nupieštu medžiu"
+    },
+    {
+      "id": 17583,
+      "text": "Pelių kelionė mašina"
+    },
+    {
+      "id": 17582,
+      "text": "Geri berneliai"
+    },
+    {
+      "id": 17581,
+      "text": "Pižamų vakarėlis"
+    },
+    {
+      "id": 17580,
+      "text": "Jachta su ratais"
+    },
+    {
+      "id": 17579,
+      "text": "Beveik beveik pasibučiavom"
+    },
+    {
+      "id": 17578,
+      "text": "Šlapi dažai"
+    },
+    {
+      "id": 17577,
+      "text": "Šachmatai be rikių"
+    },
+    {
+      "id": 17576,
+      "text": "Klaipėdos karalius"
+    },
+    {
+      "id": 17575,
+      "text": "Popiežius kultūristas"
+    },
+    {
+      "id": 17574,
+      "text": "Vergė Izaura"
+    },
+    {
+      "id": 17573,
+      "text": "Milijonas su per daug nulių"
+    },
+    {
+      "id": 17572,
+      "text": "Tripusė sąnkryža"
+    },
+    {
+      "id": 17571,
+      "text": "Moteris ir jos antros vietos trofėjus"
+    },
+    {
+      "id": 17570,
+      "text": "Skaneriai"
+    },
+    {
+      "id": 17569,
+      "text": "Švytėjimas"
+    },
+    {
+      "id": 17568,
+      "text": "Ačiū pačiū pabučiuok į pečių"
+    },
+    {
+      "id": 17563,
+      "text": "Negyvėlis hamake"
+    },
+    {
+      "id": 17562,
+      "text": "Stickmenas su tikromis rankomis"
+    },
+    {
+      "id": 17561,
+      "text": "Stikliukas agurkų sulčių"
+    },
+    {
+      "id": 17560,
+      "text": "Jauna auklė"
+    },
+    {
+      "id": 17559,
+      "text": "Ei senelimbai, neliūdėk dėl eismo"
+    },
+    {
+      "id": 17558,
+      "text": "Picos laikas!"
+    },
+    {
+      "id": 17557,
+      "text": "Mažas drakono įkandimas"
+    },
+    {
+      "id": 17556,
+      "text": "Kaip aš gavau šį nasosą"
+    },
+    {
+      "id": 17555,
+      "text": "O Dieve, aš senas!"
+    },
+    {
+      "id": 17554,
+      "text": "Pasaulis be savaitgalių"
+    },
+    {
+      "id": 17553,
+      "text": "Halkas gavo naujas kelnes!!!"
+    },
+    {
+      "id": 17552,
+      "text": "Skaipo vakarėlis"
+    },
+    {
+      "id": 17551,
+      "text": "Karvė dantistė"
+    },
+    {
+      "id": 17550,
+      "text": "TV žaidimas milžinams"
+    },
+    {
+      "id": 17549,
+      "text": "Išsprogusi bamba"
+    },
+    {
+      "id": 17548,
+      "text": "Sausainiai su užnuodytu ketčiupu"
+    },
+    {
+      "id": 17547,
+      "text": "Jūrlige susirgęs Šerlokas Holmsas"
+    },
+    {
+      "id": 17546,
+      "text": "Jūrų kiaulytė valganti dangoraižį"
+    },
+    {
+      "id": 17545,
+      "text": "Gyvatės trumpikės"
+    },
+    {
+      "id": 17544,
+      "text": "Raugintų agurkų traukinys atvažiuoja!"
+    },
+    {
+      "id": 17543,
+      "text": "Mirties mentelės"
+    },
+    {
+      "id": 17542,
+      "text": "Šios rupužės nutukusios!"
+    },
+    {
+      "id": 17541,
+      "text": "Liūdniausias Meksikos sombrero"
+    },
+    {
+      "id": 17540,
+      "text": "Knyga apie filmą apie raganosius"
+    },
+    {
+      "id": 17539,
+      "text": "Kiaušinmobilis"
+    },
+    {
+      "id": 17538,
+      "text": "Ei chėbra! Nu pala!"
+    },
+    {
+      "id": 17537,
+      "text": "Koubojų filmas apie agurkus"
+    },
+    {
+      "id": 17536,
+      "text": "Pakelk mano kelnes!"
+    },
+    {
+      "id": 17535,
+      "text": "Pasivažinėjimas zefyrais"
+    },
+    {
+      "id": 17534,
+      "text": "Durnas padavėjas"
+    },
+    {
+      "id": 17533,
+      "text": "Mano wifi kodas"
+    },
+    {
+      "id": 17532,
+      "text": "Viduramžio krizė"
+    },
+    {
+      "id": 17531,
+      "text": "Šudukas ant pagaliuko"
+    },
+    {
+      "id": 17530,
+      "text": "Mirties bausmę gaunanti pagalvė"
+    },
+    {
+      "id": 17529,
+      "text": "Na taip pakenčiamai leidžiamas laikas"
+    },
+    {
+      "id": 17528,
+      "text": "Oho, kokie dideli tavo inkstai!"
+    },
+    {
+      "id": 17527,
+      "text": "Pumpavimas"
+    },
+    {
+      "id": 17526,
+      "text": "Saturnas dingo"
+    },
+    {
+      "id": 17525,
+      "text": "Greitas ėjimas"
+    },
+    {
+      "id": 17524,
+      "text": "Baik spoksoti į mano čiuptuvus"
+    },
+    {
+      "id": 17523,
+      "text": "Brokolių klizma"
+    },
+    {
+      "id": 17522,
+      "text": "Šuo taksas žaidžiantis golfą"
+    },
+    {
+      "id": 17521,
+      "text": "Balalaikos laidotuvės"
+    },
+    {
+      "id": 17520,
+      "text": "Maišas litų"
+    },
+    {
+      "id": 17519,
+      "text": "Delfinai marozai"
+    },
+    {
+      "id": 17518,
+      "text": "Goblinas vairuotojas"
+    },
+    {
+      "id": 17517,
+      "text": "Antanas Škėma paperdė"
+    },
+    {
+      "id": 17516,
+      "text": "Šlykštus tosteris"
+    },
+    {
+      "id": 17515,
+      "text": "O kas būtų jei abėcėlė būtų kitokia?"
+    },
+    {
+      "id": 17514,
+      "text": "Žudymas mintimis"
+    },
+    {
+      "id": 17513,
+      "text": "Liūdnas kamuoliukas"
+    },
+    {
+      "id": 17512,
+      "text": "Žmonių zoologijos sodas"
+    },
+    {
+      "id": 17511,
+      "text": "Vidurių užkietėjimas"
+    },
+    {
+      "id": 17510,
+      "text": "Harvardas"
+    },
+    {
+      "id": 17509,
+      "text": "Miškininko košmaras"
+    },
+    {
+      "id": 17508,
+      "text": "Giedrius Savickas"
+    },
+    {
+      "id": 17507,
+      "text": "Nuogas nusileidimas laiptais"
+    },
+    {
+      "id": 17506,
+      "text": "Vaflio šuolis"
+    },
+    {
+      "id": 17505,
+      "text": "Andrius Mamontovas išbezdantis strėlytes"
+    },
+    {
+      "id": 17504,
+      "text": "Mama Rock n Roll"
+    },
+    {
+      "id": 17503,
+      "text": "Dūzgės"
+    },
+    {
+      "id": 17502,
+      "text": "Žudikas galinio vaizdo veidrodėlyje"
+    },
+    {
+      "id": 17501,
+      "text": "Pagauk kampą"
+    },
+    {
+      "id": 17500,
+      "text": "Kosmoso kempingas"
+    },
+    {
+      "id": 17499,
+      "text": "Barzda iš bičių"
+    },
+    {
+      "id": 17498,
+      "text": "Sena tarnaitė"
+    },
+    {
+      "id": 17497,
+      "text": "Merlot vynas"
+    },
+    {
+      "id": 17496,
+      "text": "Kandidatūra į merus"
+    },
+    {
+      "id": 17495,
+      "text": "Baimė žaisti butelį"
+    },
+    {
+      "id": 17494,
+      "text": "Skalbimo diena"
+    },
+    {
+      "id": 17493,
+      "text": "Lazerinis kardas"
+    },
+    {
+      "id": 17492,
+      "text": "Draugai su privalumais"
+    },
+    {
+      "id": 17491,
+      "text": "Padengtas blizgučiais"
+    },
+    {
+      "id": 17490,
+      "text": "Pildymas"
+    },
+    {
+      "id": 17489,
+      "text": "Moteris trikampėje suknelėje"
+    },
+    {
+      "id": 17488,
+      "text": "Grifkos nusikaltimas"
+    },
+    {
+      "id": 17487,
+      "text": "Vilkolokių universitetas"
+    },
+    {
+      "id": 17486,
+      "text": "Visiški degradai"
+    },
+    {
+      "id": 17485,
+      "text": "Gėda"
+    },
+    {
+      "id": 17484,
+      "text": "Kur keliauja dingusios kojinės"
+    },
+    {
+      "id": 17483,
+      "text": "Vakarienės varpelis"
+    },
+    {
+      "id": 17482,
+      "text": "Magas iš Hario Poterio"
+    },
+    {
+      "id": 17481,
+      "text": "Vestuvių sustabdymas"
+    },
+    {
+      "id": 17480,
+      "text": "Bermudų trikampis"
+    },
+    {
+      "id": 17479,
+      "text": "Šachmatai iš žmonių"
+    },
+    {
+      "id": 17478,
+      "text": "Atsimenu kai turėjau daug draugų"
+    },
+    {
+      "id": 17477,
+      "text": "Naujo tipo makaronas"
+    },
+    {
+      "id": 17476,
+      "text": "Plaukai su siela"
+    },
+    {
+      "id": 17475,
+      "text": "Stiprios antys"
+    },
+    {
+      "id": 17474,
+      "text": "Rūbynės žetonas"
+    },
+    {
+      "id": 17473,
+      "text": "Moteris kentauras"
+    },
+    {
+      "id": 17472,
+      "text": "Kapitonas skrybėliočius"
+    },
+    {
+      "id": 17471,
+      "text": "Dingęs mygtukas"
+    },
+    {
+      "id": 17470,
+      "text": "Dvyniai kovoja prieš dvynius"
+    },
+    {
+      "id": 17469,
+      "text": "Kumpis lovoje"
+    },
+    {
+      "id": 17468,
+      "text": "Bazūkiniai kačiukai"
+    },
+    {
+      "id": 17467,
+      "text": "Seksi barmenai"
+    },
+    {
+      "id": 17466,
+      "text": "Kūdikis ernis"
+    },
+    {
+      "id": 17465,
+      "text": "Mėnulio susprogdinimas"
+    },
+    {
+      "id": 17464,
+      "text": "Robotų miuziklas"
+    },
+    {
+      "id": 17463,
+      "text": "Kazino žaidimai"
+    },
+    {
+      "id": 17462,
+      "text": "Vestuvinis tortas tarakonams"
+    },
+    {
+      "id": 17461,
+      "text": "Kai kurie didieji ežerai"
+    },
+    {
+      "id": 17460,
+      "text": "Zero filmas"
+    },
+    {
+      "id": 17459,
+      "text": "Tingus medis"
+    },
+    {
+      "id": 17458,
+      "text": "Su gimtadieniu, va imk pirštą!"
+    },
+    {
+      "id": 17457,
+      "text": "Stalo futbolo žmogeliukas"
+    },
+    {
+      "id": 17456,
+      "text": "Baliauninkas"
+    },
+    {
+      "id": 17455,
+      "text": "Raugintų agurkų vagis"
+    },
+    {
+      "id": 17454,
+      "text": "Ktulas, išgalvota dievybė"
+    },
+    {
+      "id": 17453,
+      "text": "50 pilkų atspalvių be sekso scenų"
+    },
+    {
+      "id": 17452,
+      "text": "Krūtinė panaši į veidą"
+    },
+    {
+      "id": 17451,
+      "text": "IKEA įrankis"
+    },
+    {
+      "id": 17450,
+      "text": "Žmogienos valgymas iš didelio bado"
+    },
+    {
+      "id": 17449,
+      "text": "Alkatrazas"
+    },
+    {
+      "id": 17448,
+      "text": "Akvariumo nusikaltimo scena"
+    },
+    {
+      "id": 17447,
+      "text": "Bandelės užpakaliukas"
+    },
+    {
+      "id": 17446,
+      "text": "GnG"
+    },
+    {
+      "id": 17445,
+      "text": "Marijos radijas per TV"
+    },
+    {
+      "id": 17444,
+      "text": "Muzikos ir filmų parsisiuntimas"
+    },
+    {
+      "id": 17443,
+      "text": "Sekantis Lietuvos prezidentas"
+    },
+    {
+      "id": 17442,
+      "text": "Beyoncės video"
+    },
+    {
+      "id": 17441,
+      "text": "Heraklis"
+    },
+    {
+      "id": 17440,
+      "text": "Vilkų paradas"
+    },
+    {
+      "id": 17439,
+      "text": "Apsirengęs odiniais rūbais"
+    },
+    {
+      "id": 17438,
+      "text": "Plona grimasa"
+    },
+    {
+      "id": 17437,
+      "text": "O ne! Drakulos!"
+    },
+    {
+      "id": 17436,
+      "text": "Baisūs tapetai"
+    },
+    {
+      "id": 17435,
+      "text": "Kišenė pilna kriptonito"
+    },
+    {
+      "id": 17434,
+      "text": "Laikraščio komiksas"
+    },
+    {
+      "id": 17433,
+      "text": "Pamiršau parašiutą!"
+    },
+    {
+      "id": 17432,
+      "text": "Senovės laikai"
+    },
+    {
+      "id": 17431,
+      "text": "Neišlaikiau melo detektoriaus testo"
+    },
+    {
+      "id": 17430,
+      "text": "Šeimos cirkas"
+    },
+    {
+      "id": 17429,
+      "text": "Narnijos žemėlapis"
+    },
+    {
+      "id": 17428,
+      "text": "Baltoji meška gerianti alų"
+    },
+    {
+      "id": 17427,
+      "text": "Novelė parašyta koalos"
+    },
+    {
+      "id": 17426,
+      "text": "Pinigų mašina"
+    },
+    {
+      "id": 17425,
+      "text": "Aš tave mylėjau"
+    },
+    {
+      "id": 17424,
+      "text": "Parduodama: kūdikio batai, nepanaudoti"
+    },
+    {
+      "id": 17423,
+      "text": "Plauk banglente arba mirk!"
+    },
+    {
+      "id": 17422,
+      "text": "Sausi pusryčiai su vandeniu"
+    },
+    {
+      "id": 17421,
+      "text": "Sušalusi košė"
+    },
+    {
+      "id": 17420,
+      "text": "Granatas"
+    },
+    {
+      "id": 17419,
+      "text": "Maksimanija"
+    },
+    {
+      "id": 17418,
+      "text": "Moteris laikanti per didelę šakutę"
+    },
+    {
+      "id": 17417,
+      "text": "Prieš 3 metus?"
+    },
+    {
+      "id": 17416,
+      "text": "Majų kalendorius"
+    },
+    {
+      "id": 17415,
+      "text": "Čiužinių išpardavimas"
+    },
+    {
+      "id": 17414,
+      "text": "Jaguaras"
+    },
+    {
+      "id": 17413,
+      "text": "Ta sąvaržėlė iš Microsoft Word"
+    },
+    {
+      "id": 17412,
+      "text": "Arbatos maišelis"
+    },
+    {
+      "id": 17411,
+      "text": "Man reikia kavos!"
+    },
+    {
+      "id": 17410,
+      "text": "Būdoje gyvenanti katė"
+    },
+    {
+      "id": 17409,
+      "text": "Alfabetinis"
+    },
+    {
+      "id": 17408,
+      "text": "Arklys su saugos diržu"
+    },
+    {
+      "id": 17407,
+      "text": "Plūduriuojančios akys"
+    },
+    {
+      "id": 17406,
+      "text": "Urvinio žmogaus šukuosena"
+    },
+    {
+      "id": 17405,
+      "text": "Neliesk!"
+    },
+    {
+      "id": 17404,
+      "text": "Pūstos kelnės"
+    },
+    {
+      "id": 17403,
+      "text": "Šis komiksas kažkoks lievas"
+    },
+    {
+      "id": 17402,
+      "text": "Pašėlęs"
+    },
+    {
+      "id": 17401,
+      "text": "Purvini pinigai"
+    },
+    {
+      "id": 17400,
+      "text": "Lėkštė ant galvos"
+    },
+    {
+      "id": 17399,
+      "text": "Geriausias pasaulio tėtis"
+    },
+    {
+      "id": 17398,
+      "text": "Drąsi skruzdė"
+    },
+    {
+      "id": 17397,
+      "text": "Įsivaizduojamas draugas"
+    },
+    {
+      "id": 17396,
+      "text": "Žiurkė kokone"
+    },
+    {
+      "id": 17395,
+      "text": "Antikvariatų parduotuvė"
+    },
+    {
+      "id": 17394,
+      "text": "Išprotėjęs padavėjas"
+    },
+    {
+      "id": 17393,
+      "text": "Žmonės bute virš mūsų labai triukšmauja"
+    },
+    {
+      "id": 17392,
+      "text": "Raumeninga panda"
+    },
+    {
+      "id": 17391,
+      "text": "Gobši lėlė"
+    },
+    {
+      "id": 17390,
+      "text": "Kvapas smirdintis kiaušiniais"
+    },
+    {
+      "id": 17389,
+      "text": "Kanibalų kalėdos"
+    },
+    {
+      "id": 17388,
+      "text": "Pažadų žiedas"
+    },
+    {
+      "id": 17387,
+      "text": "Kobros pyragas"
+    },
+    {
+      "id": 17386,
+      "text": "Daktaras juokutis"
+    },
+    {
+      "id": 17385,
+      "text": "Kibiras apskritimų"
+    },
+    {
+      "id": 17384,
+      "text": "Trolio marškiniai"
+    },
+    {
+      "id": 17383,
+      "text": "Sukčiavimas žaidžiant kryžiukus nuliukus"
+    },
+    {
+      "id": 17382,
+      "text": "Meilus šikšnosparnis"
+    },
+    {
+      "id": 17381,
+      "text": "Skaudi sriuba"
+    },
+    {
+      "id": 17380,
+      "text": "Drėgmė"
+    },
+    {
+      "id": 17379,
+      "text": "Kaip juokinga!"
+    },
+    {
+      "id": 17378,
+      "text": "Pajovinga sąnkryža"
+    },
+    {
+      "id": 17377,
+      "text": "Švelni salsa"
+    },
+    {
+      "id": 17376,
+      "text": "Šio šuns rūra"
+    },
+    {
+      "id": 17375,
+      "text": "Sužverėjęs kaubojus"
+    },
+    {
+      "id": 17374,
+      "text": "Dingęs traktorius"
+    },
+    {
+      "id": 17373,
+      "text": "Apsimeta skaitąs"
+    },
+    {
+      "id": 17372,
+      "text": "Likučiai"
+    },
+    {
+      "id": 17371,
+      "text": "Mama ir tėtis bučiuojasi"
+    },
+    {
+      "id": 17370,
+      "text": "Skraidantis tosteris"
+    },
+    {
+      "id": 17369,
+      "text": "Sausa kišenė"
+    },
+    {
+      "id": 17368,
+      "text": "Protmūšis"
+    },
+    {
+      "id": 17367,
+      "text": "Skraidantis traukinys"
+    },
+    {
+      "id": 17366,
+      "text": "Seksualūs dūdmaišiai"
+    },
+    {
+      "id": 17365,
+      "text": "Džekas skerdikas"
+    },
+    {
+      "id": 17364,
+      "text": "Žmogus su botagu"
+    },
+    {
+      "id": 17363,
+      "text": "Valgyk kiek telpa bufetas"
+    },
+    {
+      "id": 17362,
+      "text": "Šokinėjimo pilis"
+    },
+    {
+      "id": 17361,
+      "text": "Šeštadienio rytas"
+    },
+    {
+      "id": 17360,
+      "text": "Nuobodžiaujantis terapiautas"
+    },
+    {
+      "id": 17359,
+      "text": "Pašėlęs vyrukas radijuje"
+    },
+    {
+      "id": 17358,
+      "text": "Nuodingoji gebenė"
+    },
+    {
+      "id": 17357,
+      "text": "Fūros vairuotojas su maža kepurėle"
+    },
+    {
+      "id": 17356,
+      "text": "Lego Mozė"
+    },
+    {
+      "id": 17355,
+      "text": "50 Pilkų Atspalvių"
+    },
+    {
+      "id": 17354,
+      "text": "16 gimtadienis"
+    },
+    {
+      "id": 17353,
+      "text": "Dantisto košmaras"
+    },
+    {
+      "id": 17352,
+      "text": "Supelyjęs maudymukas"
+    },
+    {
+      "id": 17351,
+      "text": "Vaizdas"
+    },
+    {
+      "id": 17350,
+      "text": "Undinių ligoninė"
+    },
+    {
+      "id": 17349,
+      "text": "Apsimiegojęs tarnas"
+    },
+    {
+      "id": 17348,
+      "text": "Bėk skųsk prakaituok, tėvo triusikus nešiok"
+    },
+    {
+      "id": 17347,
+      "text": "Brangūs aptempti džinsai"
+    },
+    {
+      "id": 17346,
+      "text": "Ponas kutulys"
+    },
+    {
+      "id": 17345,
+      "text": "Medaus mėnuo kosmose"
+    },
+    {
+      "id": 17344,
+      "text": "Nukirpto nago liekana"
+    },
+    {
+      "id": 17343,
+      "text": "Žaidimas golfu miegant"
+    },
+    {
+      "id": 17342,
+      "text": "Saulėlydžio stebėjimas"
+    },
+    {
+      "id": 17341,
+      "text": "Kolibrių balnas"
+    },
+    {
+      "id": 17340,
+      "text": "Kiemo imtynės"
+    },
+    {
+      "id": 17339,
+      "text": "Pranašas"
+    },
+    {
+      "id": 17338,
+      "text": "Sklandūs judesiukai"
+    },
+    {
+      "id": 17337,
+      "text": "Tobulas apskritimas"
+    },
+    {
+      "id": 17336,
+      "text": "Nuobodūs fejerverkai"
+    },
+    {
+      "id": 17335,
+      "text": "Gilios mintys"
+    },
+    {
+      "id": 17334,
+      "text": "Granito paviršius"
+    },
+    {
+      "id": 17333,
+      "text": "Nuodai nuo briedžių"
+    },
+    {
+      "id": 17332,
+      "text": "Kumpio, salotų, agurkėlių sumuštinis be garstyčių"
+    },
+    {
+      "id": 17331,
+      "text": "Raugėjančios bitės"
+    },
+    {
+      "id": 17330,
+      "text": "Minotauro antkapis"
+    },
+    {
+      "id": 17329,
+      "text": "Telefoninis pokalbis tarp namelių medžiuose"
+    },
+    {
+      "id": 17328,
+      "text": "Burgerio valanda"
+    },
+    {
+      "id": 17327,
+      "text": "Bernų pop grupė"
+    },
+    {
+      "id": 17326,
+      "text": "Akupunktūros specialistas klounas"
+    },
+    {
+      "id": 17325,
+      "text": "Piešinys ant telefono ekrano"
+    },
+    {
+      "id": 17324,
+      "text": "Ryžiai"
+    },
+    {
+      "id": 17323,
+      "text": "Baseinas pilnas pieno"
+    },
+    {
+      "id": 17322,
+      "text": "Čimodanas pilnas dūmų"
+    },
+    {
+      "id": 17321,
+      "text": "Beizbolo žaidėjas mušantis gongą"
+    },
+    {
+      "id": 17320,
+      "text": "Užpiešti antakiai"
+    },
+    {
+      "id": 17319,
+      "text": "Švediškas šaukštas"
+    },
+    {
+      "id": 17318,
+      "text": "Mus stebi šuo"
+    },
+    {
+      "id": 17317,
+      "text": "Benamis džinas"
+    },
+    {
+      "id": 17316,
+      "text": "Senelio pelenai"
+    },
+    {
+      "id": 17315,
+      "text": "Kaip užsirišti varlytę"
+    },
+    {
+      "id": 17314,
+      "text": "Kreminis kremas prieš su gabaliukais"
+    },
+    {
+      "id": 17313,
+      "text": "Ateivių taksi"
+    },
+    {
+      "id": 17312,
+      "text": "Numestas telefonas į klozetą"
+    },
+    {
+      "id": 17311,
+      "text": "Veido plaktukas"
+    },
+    {
+      "id": 17310,
+      "text": "Avių žudikas"
+    },
+    {
+      "id": 17309,
+      "text": "Paveikslėlis pirktas kartu su rėmu"
+    },
+    {
+      "id": 17308,
+      "text": "Blenderis ir kiti daiktai"
+    },
+    {
+      "id": 17307,
+      "text": "Tebūnieeee! Tebūnieeee!"
+    },
+    {
+      "id": 17306,
+      "text": "Suledyjęs peilis"
+    },
+    {
+      "id": 17305,
+      "text": "Pasidažęs raganosis"
+    },
+    {
+      "id": 17304,
+      "text": "Šokantis liūtas"
+    },
+    {
+      "id": 17303,
+      "text": "Paskutinis sostų karų sezonas"
+    },
+    {
+      "id": 17302,
+      "text": "Sarkastiška bezdžionė"
+    },
+    {
+      "id": 17301,
+      "text": "Slyvų sultys"
+    },
+    {
+      "id": 17300,
+      "text": "Ciklopų piknikas"
+    },
+    {
+      "id": 17299,
+      "text": "Ekstrasensų mūšis"
+    },
+    {
+      "id": 17298,
+      "text": "Atrodo kaip Safas"
+    },
+    {
+      "id": 17297,
+      "text": "Netyčia nusiųsta žinutė"
+    },
+    {
+      "id": 17296,
+      "text": "Elvio Preslio skeletas"
+    },
+    {
+      "id": 17295,
+      "text": "Įsimylėjęs papartį"
+    },
+    {
+      "id": 17294,
+      "text": "Lempos ataka"
+    },
+    {
+      "id": 17293,
+      "text": "Žuvis milžinė žiūrinti per laivo langą"
+    },
+    {
+      "id": 17292,
+      "text": "Nekenčiu 3D"
+    },
+    {
+      "id": 17291,
+      "text": "Pavojinga puzlė"
+    },
+    {
+      "id": 17290,
+      "text": "Povo kiaušiniai"
+    },
+    {
+      "id": 17289,
+      "text": "Darbe atidaryti nesaugu"
+    },
+    {
+      "id": 17288,
+      "text": "Neveikia man tas pdf failas"
+    },
+    {
+      "id": 17287,
+      "text": "Monstrų instrukcija"
+    },
+    {
+      "id": 17286,
+      "text": "vabalmeškos"
+    },
+    {
+      "id": 17285,
+      "text": "Žiemos kaktusas"
+    },
+    {
+      "id": 17284,
+      "text": "Duoti priesaiką su kita ranka"
+    },
+    {
+      "id": 17283,
+      "text": "Mirtini kandžiai"
+    },
+    {
+      "id": 17282,
+      "text": "Mano reikalavimų sąrašas"
+    },
+    {
+      "id": 17281,
+      "text": "Kartais išgeriantis"
+    },
+    {
+      "id": 17280,
+      "text": "Susikaupęs plaukikas"
+    },
+    {
+      "id": 17279,
+      "text": "Mano akys yra čia!"
+    },
+    {
+      "id": 17278,
+      "text": "Palindromas"
+    },
+    {
+      "id": 17277,
+      "text": "Burito katė"
+    },
+    {
+      "id": 17276,
+      "text": "Priklausomybė nuo kavos"
+    },
+    {
+      "id": 17275,
+      "text": "Aš tuoj suvalgysiu tuos šuniukus!"
+    },
+    {
+      "id": 17274,
+      "text": "Vampyras ir jo svogūnas"
+    },
+    {
+      "id": 17273,
+      "text": "Uolų turistas"
+    },
+    {
+      "id": 17272,
+      "text": "Pyragas instagrame"
+    },
+    {
+      "id": 17271,
+      "text": "Infliacija"
+    },
+    {
+      "id": 17270,
+      "text": "Patiekalas putinas"
+    },
+    {
+      "id": 17269,
+      "text": "Cepelinai be bulvių"
+    },
+    {
+      "id": 17268,
+      "text": "Steampunk žanras"
+    },
+    {
+      "id": 17267,
+      "text": "Barakuda"
+    },
+    {
+      "id": 17266,
+      "text": "Autokorekto sukelta nelaimė"
+    },
+    {
+      "id": 17265,
+      "text": "Foto bomba"
+    },
+    {
+      "id": 17264,
+      "text": "Poliarinis sūkurys"
+    },
+    {
+      "id": 17263,
+      "text": "Myliu šį ilgą sumuštinį"
+    },
+    {
+      "id": 17262,
+      "text": "Tai reiškia karą"
+    },
+    {
+      "id": 17261,
+      "text": "Olandiška orkaitė"
+    },
+    {
+      "id": 17260,
+      "text": "Jūrų liūtas, bet vyras"
+    },
+    {
+      "id": 17259,
+      "text": "Lietuvių liaudies šokiai"
+    },
+    {
+      "id": 17258,
+      "text": "Švediškas sūris be skylių"
+    },
+    {
+      "id": 17257,
+      "text": "Omaras su nančiakais"
+    },
+    {
+      "id": 17256,
+      "text": "Nepakankamai deguonies"
+    },
+    {
+      "id": 17255,
+      "text": "Įrankis žievelei"
+    },
+    {
+      "id": 17254,
+      "text": "Bravo"
+    },
+    {
+      "id": 17253,
+      "text": "Praradau koją"
+    },
+    {
+      "id": 17252,
+      "text": "Ramus kaip belgas"
+    },
+    {
+      "id": 17251,
+      "text": "Geriau šio namo būtume nepirkę"
+    },
+    {
+      "id": 17250,
+      "text": "Alias žaidimas"
+    },
+    {
+      "id": 17249,
+      "text": "Bjaurios paskalos"
+    },
+    {
+      "id": 17248,
+      "text": "Labai didelio čekio laimėtojas"
+    },
+    {
+      "id": 17247,
+      "text": "Aš sėsiu į priekį!"
+    },
+    {
+      "id": 17246,
+      "text": "Plona raudona linija"
+    },
+    {
+      "id": 17245,
+      "text": "Ne koks magas"
+    },
+    {
+      "id": 17244,
+      "text": "Balerina uodas"
+    },
+    {
+      "id": 17243,
+      "text": "Springstu!!!1"
+    },
+    {
+      "id": 17242,
+      "text": "Pirtis kurioje vaidenasi"
+    },
+    {
+      "id": 17241,
+      "text": "Kiaulių persirengimo kabina"
+    },
+    {
+      "id": 17240,
+      "text": "Titrai?"
+    },
+    {
+      "id": 17239,
+      "text": "Operos fantomas prausiasi po dušu"
+    },
+    {
+      "id": 17238,
+      "text": "Brodvėjaus kandidatas"
+    },
+    {
+      "id": 17237,
+      "text": "Kiltai ir kojūkai"
+    },
+    {
+      "id": 17236,
+      "text": "Zombis mėnulyje"
+    },
+    {
+      "id": 17235,
+      "text": "Mullet šukuosenos grįžo!"
+    },
+    {
+      "id": 17234,
+      "text": "Komedija tragedija"
+    },
+    {
+      "id": 17233,
+      "text": "Podkastai"
+    },
+    {
+      "id": 17232,
+      "text": "Nors ir neatrodo kaip perukas, bet perukas"
+    },
+    {
+      "id": 17231,
+      "text": "Nekontroliuoju savo pasiutusios rankos!"
+    },
+    {
+      "id": 17230,
+      "text": "Padėkite! Aš visas padengtas siurbėlėmis!"
+    },
+    {
+      "id": 17229,
+      "text": "Šuo sapnuojantis vaiduoklius"
+    },
+    {
+      "id": 17228,
+      "text": "Popierius ar plastikas?"
+    },
+    {
+      "id": 17227,
+      "text": "Architektas"
+    },
+    {
+      "id": 17226,
+      "text": "Bambos pūkai"
+    },
+    {
+      "id": 17225,
+      "text": "Žagsulio atsikratymas"
+    },
+    {
+      "id": 17224,
+      "text": "Napoleonas jojantis ant voverės"
+    },
+    {
+      "id": 17223,
+      "text": "Moteris Džeimsas Bondas"
+    },
+    {
+      "id": 17222,
+      "text": "Europos Disnėjus"
+    },
+    {
+      "id": 17221,
+      "text": "Pasaulio pabaiga"
+    },
+    {
+      "id": 17220,
+      "text": "KGB snipinėjimas"
+    },
+    {
+      "id": 17219,
+      "text": "Visi išgyveno"
+    },
+    {
+      "id": 17218,
+      "text": "Romėniškais skaičiais 94"
+    },
+    {
+      "id": 17217,
+      "text": "Mokslinės fantastikos miegamasis"
+    },
+    {
+      "id": 17216,
+      "text": "QR kodo panaudojimas"
+    },
+    {
+      "id": 17215,
+      "text": "Gailiuosi tai išsitatuiravęs"
+    },
+    {
+      "id": 17214,
+      "text": "Kova su narkotikais"
+    },
+    {
+      "id": 17213,
+      "text": "Inkstų akmenys"
+    },
+    {
+      "id": 17212,
+      "text": "Jungtinės Tautos"
+    },
+    {
+      "id": 17211,
+      "text": "Auksinio Proto finalas"
+    },
+    {
+      "id": 17210,
+      "text": "Buratinas prieš Pinokį"
+    },
+    {
+      "id": 17209,
+      "text": "Batutas kosmose"
+    },
+    {
+      "id": 17208,
+      "text": "Liūdnas Justinas Byberis"
+    },
+    {
+      "id": 17207,
+      "text": "Farai"
+    },
+    {
+      "id": 17206,
+      "text": "Mano pranešimų gaviklis nenustoja pypsėti"
+    },
+    {
+      "id": 17205,
+      "text": "Modeliukų lenktynės"
+    },
+    {
+      "id": 17204,
+      "text": "LKL čempionai"
+    },
+    {
+      "id": 17203,
+      "text": "Ką visi galvoja apie <RANDOM_PLAYER_NAME>"
+    },
+    {
+      "id": 17202,
+      "text": "<RANDOM_PLAYER_NAME> pats blogiausias"
+    },
+    {
+      "id": 17201,
+      "text": "<RANDOM_PLAYER_NAME>"
+    },
+    {
+      "id": 17200,
+      "text": "Kakė Makė"
+    },
+    {
+      "id": 17199,
+      "text": "Kietas išgama"
+    },
+    {
+      "id": 17198,
+      "text": "Vienaragių karai"
+    },
+    {
+      "id": 17197,
+      "text": "Bezdėti per langą"
+    },
+    {
+      "id": 17196,
+      "text": "Gigantiška katės galva puolanti bažnyčią"
+    },
+    {
+      "id": 17195,
+      "text": "Šlapimas"
+    },
+    {
+      "id": 17194,
+      "text": "Šventinė pustuštė stiklinė"
+    },
+    {
+      "id": 17193,
+      "text": "Muilo opera"
+    },
+    {
+      "id": 17192,
+      "text": "Pasitikėjimo kritimas"
+    },
+    {
+      "id": 17191,
+      "text": "Kita juodosios skylės pusė"
+    },
+    {
+      "id": 17190,
+      "text": "Milžiniškas brokolis"
+    },
+    {
+      "id": 17189,
+      "text": "Atlantidos maistas"
+    },
+    {
+      "id": 17188,
+      "text": "Šachas ir matas"
+    },
+    {
+      "id": 17187,
+      "text": "Tornado mašina"
+    },
+    {
+      "id": 17186,
+      "text": "Viešasis transportas ryte"
+    },
+    {
+      "id": 17185,
+      "text": "Smagus laikas su antrankiais"
+    },
+    {
+      "id": 17184,
+      "text": "labai lengva smegenų operacija!"
+    },
+    {
+      "id": 17183,
+      "text": "Loterijos pralaimėtojai"
+    },
+    {
+      "id": 17182,
+      "text": "Vyro kampelis"
+    },
+    {
+      "id": 17181,
+      "text": "Laisvės statula prieš Godzilą"
+    },
+    {
+      "id": 17180,
+      "text": "Kaskadininkas"
+    },
+    {
+      "id": 17179,
+      "text": "Žmogus veidrodyje yra blogas"
+    },
+    {
+      "id": 17178,
+      "text": "#pirmikartai"
+    },
+    {
+      "id": 17177,
+      "text": "Mažiausias pasaulio smuikas tau groja dainą"
+    },
+    {
+      "id": 17176,
+      "text": "Pyteris Penas pardavinėjantis mašinas"
+    },
+    {
+      "id": 17175,
+      "text": "Smagus egzorcizmas"
+    },
+    {
+      "id": 17174,
+      "text": "Gal čia geometrija?"
+    },
+    {
+      "id": 17173,
+      "text": "Pingvinas zombis"
+    },
+    {
+      "id": 17172,
+      "text": "Išleistuvės kova"
+    },
+    {
+      "id": 17171,
+      "text": "Pagaliukai"
+    },
+    {
+      "id": 17170,
+      "text": "Giliųjų audinių masažas"
+    },
+    {
+      "id": 17169,
+      "text": "kažkoks lopas"
+    },
+    {
+      "id": 17168,
+      "text": "WTF, močiute?!!"
+    },
+    {
+      "id": 17167,
+      "text": "Selas perkantis ledus"
+    },
+    {
+      "id": 17166,
+      "text": "Gestapas"
+    },
+    {
+      "id": 17165,
+      "text": "Šuns maistas mėsos skonio"
+    },
+    {
+      "id": 17164,
+      "text": "Jis Tau Meluoja by Pikaso"
+    },
+    {
+      "id": 17163,
+      "text": "Tiki prakeiksmas"
+    },
+    {
+      "id": 17162,
+      "text": "Pati nuobodžiausia muzikos grupė"
+    },
+    {
+      "id": 17161,
+      "text": "Blogai nupieštas vėžlys"
+    },
+    {
+      "id": 17160,
+      "text": "Rolandas Kazlas"
+    },
+    {
+      "id": 17159,
+      "text": "Šiam kambariui reikia vandens lovos!"
+    },
+    {
+      "id": 17158,
+      "text": "Bananų pilis"
+    },
+    {
+      "id": 17157,
+      "text": "Kairiarankė katė"
+    },
+    {
+      "id": 17156,
+      "text": "Niekam sporto salėje jis nepatinka"
+    },
+    {
+      "id": 17155,
+      "text": "Nebemyli"
+    },
+    {
+      "id": 17154,
+      "text": "Operos nekentėjai"
+    },
+    {
+      "id": 17153,
+      "text": "Tarakonas gyvenantis ausyje"
+    },
+    {
+      "id": 17152,
+      "text": "Geras kūno kvapas"
+    },
+    {
+      "id": 17151,
+      "text": "Draugiškas grafitis"
+    },
+    {
+      "id": 17150,
+      "text": "Pleistras iš kopūsto"
+    },
+    {
+      "id": 17149,
+      "text": "Dviguba vaivorykštė"
+    },
+    {
+      "id": 17148,
+      "text": "Feminizmas"
+    },
+    {
+      "id": 17147,
+      "text": "Daktaro Frankenšteino ofisas"
+    },
+    {
+      "id": 17146,
+      "text": "Ekstremalus sportas"
+    },
+    {
+      "id": 17145,
+      "text": "Šuo su rentgeno spindulių rega"
+    },
+    {
+      "id": 17144,
+      "text": "Meilės kilimas"
+    },
+    {
+      "id": 17143,
+      "text": "Šeimos vertybės"
+    },
+    {
+      "id": 17142,
+      "text": "Sena granata"
+    },
+    {
+      "id": 17141,
+      "text": "Kraustausi gyventi su Santa Klausu"
+    },
+    {
+      "id": 17140,
+      "text": "Krūti mokykliniai batai"
+    },
+    {
+      "id": 17139,
+      "text": "Naujas darbas"
+    },
+    {
+      "id": 17138,
+      "text": "Kalakutų vagis"
+    },
+    {
+      "id": 17137,
+      "text": "Hotdogų ir sukamų lankų vakarėlis"
+    },
+    {
+      "id": 17136,
+      "text": "Mangai mangai sirpsta tavo mangai"
+    },
+    {
+      "id": 17135,
+      "text": "Riebaluotas vaikis"
+    },
+    {
+      "id": 17134,
+      "text": "Šiknos tatuiruotė"
+    },
+    {
+      "id": 17133,
+      "text": "Šimtakojo meilė"
+    },
+    {
+      "id": 17132,
+      "text": "Improvizacijos grupė"
+    },
+    {
+      "id": 17131,
+      "text": "Nelaimė su giljotina"
+    },
+    {
+      "id": 17130,
+      "text": "Mikrafono testas"
+    },
+    {
+      "id": 17129,
+      "text": "Nevalgyk sausainių"
+    },
+    {
+      "id": 17128,
+      "text": "Arklio šukos"
+    },
+    {
+      "id": 17127,
+      "text": "Kėdė kovojanti prieš stalą"
+    },
+    {
+      "id": 17126,
+      "text": "Veganų vakarienė"
+    },
+    {
+      "id": 17125,
+      "text": "Krepšinio fanas"
+    },
+    {
+      "id": 17124,
+      "text": "Kalėjimo peilis"
+    },
+    {
+      "id": 17123,
+      "text": "Nusivylusios namų šeimininkės"
+    },
+    {
+      "id": 17122,
+      "text": "Deksteris"
+    },
+    {
+      "id": 17121,
+      "text": "Megztinių išpardavimas"
+    },
+    {
+      "id": 17120,
+      "text": "Riteris grojantis gitara"
+    },
+    {
+      "id": 17119,
+      "text": "Miegantis daktaras"
+    },
+    {
+      "id": 17118,
+      "text": "Vėžlys komoje"
+    },
+    {
+      "id": 17117,
+      "text": "Arklys su dryžiais"
+    },
+    {
+      "id": 17116,
+      "text": "Trys norai"
+    },
+    {
+      "id": 17115,
+      "text": "Atsibodo gulėti apsikabinus"
+    },
+    {
+      "id": 17114,
+      "text": "Spoksojimas į sriubą ant dujinės"
+    },
+    {
+      "id": 17113,
+      "text": "Tėvelio bajeriai"
+    },
+    {
+      "id": 17112,
+      "text": "Rūkas"
+    },
+    {
+      "id": 17111,
+      "text": "Kažkoks čiuvelis su apsiaustu"
+    },
+    {
+      "id": 17110,
+      "text": "Bikinių ofisas"
+    },
+    {
+      "id": 17109,
+      "text": "Popkornų sprogimas"
+    },
+    {
+      "id": 17108,
+      "text": "Senolis skraidinantis aitvarą"
+    },
+    {
+      "id": 17107,
+      "text": "Maikė ginklas"
+    },
+    {
+      "id": 17106,
+      "text": "Kompiuterio virusas"
+    },
+    {
+      "id": 17105,
+      "text": "Ledo skulptūra"
+    },
+    {
+      "id": 17104,
+      "text": "Šoninė pardavinėjama už kampo"
+    },
+    {
+      "id": 17103,
+      "text": "Viena lieteškė"
+    },
+    {
+      "id": 17102,
+      "text": "Siaubas"
+    },
+    {
+      "id": 17101,
+      "text": "Valgymas verkiant"
+    },
+    {
+      "id": 17100,
+      "text": "Gendalfo vestuvės"
+    },
+    {
+      "id": 17099,
+      "text": "Atostogų kunigas"
+    },
+    {
+      "id": 17098,
+      "text": "Monetų laižymas"
+    },
+    {
+      "id": 17097,
+      "text": "Dūris į veidą"
+    },
+    {
+      "id": 17096,
+      "text": "Klasės nuotrauka su lazeriais fone"
+    },
+    {
+      "id": 17095,
+      "text": "Tas filmas su žalia kauke"
+    },
+    {
+      "id": 17094,
+      "text": "Vilkai su apatiniais"
+    },
+    {
+      "id": 17093,
+      "text": "Visi žino, kad tu praplikęs"
+    },
+    {
+      "id": 17092,
+      "text": "Keistai besijuokiantis žmogelis"
+    },
+    {
+      "id": 17091,
+      "text": "Atsivesk vaiką į darbą diena"
+    },
+    {
+      "id": 17090,
+      "text": "Apsikabinusios žiurkės"
+    },
+    {
+      "id": 17089,
+      "text": "Nesigavęs klonas"
+    },
+    {
+      "id": 17088,
+      "text": "Madona"
+    },
+    {
+      "id": 17087,
+      "text": "Pasturgalį purtantis karalius"
+    },
+    {
+      "id": 17086,
+      "text": "Priešistoriniai zuikiai"
+    },
+    {
+      "id": 17085,
+      "text": "Dantų balinimas"
+    },
+    {
+      "id": 17084,
+      "text": "Paslaptingas traukinys"
+    },
+    {
+      "id": 17083,
+      "text": "Debesis panašus į Nausėdą"
+    },
+    {
+      "id": 17082,
+      "text": "Antys kardų mūšyje"
+    },
+    {
+      "id": 17081,
+      "text": "Žaidimas Lažinkimės"
+    },
+    {
+      "id": 17080,
+      "text": "Didelė repo kova"
+    },
+    {
+      "id": 17079,
+      "text": "Mirtini spąstai"
+    },
+    {
+      "id": 17078,
+      "text": "Ragana be pinigų"
+    },
+    {
+      "id": 17077,
+      "text": "Balionų monstras"
+    },
+    {
+      "id": 17076,
+      "text": "Feisbuko draugai"
+    },
+    {
+      "id": 17075,
+      "text": "Parduotuvės maniakas"
+    },
+    {
+      "id": 17074,
+      "text": "Bobslėjaus šeima"
+    },
+    {
+      "id": 17073,
+      "text": "Tekila"
+    },
+    {
+      "id": 17072,
+      "text": "Sulūžę riešutai"
+    },
+    {
+      "id": 17071,
+      "text": "Sniego žmonės"
+    },
+    {
+      "id": 17070,
+      "text": "Pelių pica"
+    },
+    {
+      "id": 17069,
+      "text": "Paparacis"
+    },
+    {
+      "id": 17068,
+      "text": "Rankinukų uostytojas"
+    },
+    {
+      "id": 17066,
+      "text": "Mediniai amerikietiškieji kalneliai"
+    },
+    {
+      "id": 17065,
+      "text": "Žinutė nuo mamos"
+    },
+    {
+      "id": 17064,
+      "text": "Karšta joga"
+    },
+    {
+      "id": 17063,
+      "text": "Roboto policininko šokis"
+    },
+    {
+      "id": 17062,
+      "text": "Tamsa"
+    },
+    {
+      "id": 17061,
+      "text": "Parazitas su šypsena"
+    },
+    {
+      "id": 17060,
+      "text": "Verslo laikas"
+    },
+    {
+      "id": 17059,
+      "text": "Blogai pasibaigęs pokštas"
+    },
+    {
+      "id": 17058,
+      "text": "Sūris čia gal kažkoks???"
+    },
+    {
+      "id": 17057,
+      "text": "Jei gyvatės nešiotų varlytes?"
+    },
+    {
+      "id": 17056,
+      "text": "Gezas suvalgęs visus popkornus!"
+    },
+    {
+      "id": 17055,
+      "text": "Namas su dviem langais be durų"
+    },
+    {
+      "id": 17054,
+      "text": "Trys čiuvai su skrybėlėmis ir vienas be"
+    },
+    {
+      "id": 17053,
+      "text": "Keistas kolega"
+    },
+    {
+      "id": 17052,
+      "text": "Veidas kurį norėtum nubučiuoti"
+    },
+    {
+      "id": 17051,
+      "text": "Kartingų pastatytojas"
+    },
+    {
+      "id": 17050,
+      "text": "vestuvių nutraukimas"
+    },
+    {
+      "id": 17049,
+      "text": "arbatos vakarėlis"
+    },
+    {
+      "id": 17048,
+      "text": "alergiškas katėms"
+    },
+    {
+      "id": 17047,
+      "text": "vyras norintis apsikabinimo"
+    },
+    {
+      "id": 17046,
+      "text": "įstatymas ir tvarka"
+    },
+    {
+      "id": 17045,
+      "text": "duok penkis sau"
+    },
+    {
+      "id": 17044,
+      "text": "kosmoso virėjas"
+    },
+    {
+      "id": 17043,
+      "text": "labai atsiprašau"
+    },
+    {
+      "id": 17042,
+      "text": "baisi princesė"
+    },
+    {
+      "id": 17041,
+      "text": "viengungių kruizas"
+    },
+    {
+      "id": 17040,
+      "text": "monstro selfis"
+    },
+    {
+      "id": 17039,
+      "text": "gal.... labas?!!!"
+    },
+    {
+      "id": 17038,
+      "text": "aukščiausiasis teismas"
+    },
+    {
+      "id": 17037,
+      "text": "klounas ant riedučių"
+    },
+    {
+      "id": 17036,
+      "text": "heiteris skeiteris"
+    },
+    {
+      "id": 17035,
+      "text": "tvarka bus"
+    },
+    {
+      "id": 17034,
+      "text": "pirmo spaudimo alyvuogių aliejus"
+    },
+    {
+      "id": 17033,
+      "text": "kardio"
+    },
+    {
+      "id": 17032,
+      "text": "fioletinė"
+    },
+    {
+      "id": 17031,
+      "text": "aštuoniasdešimtieji"
+    },
+    {
+      "id": 17030,
+      "text": "lovų vagis"
+    },
+    {
+      "id": 17029,
+      "text": "kai pasiilgsti sausainių"
+    },
+    {
+      "id": 17028,
+      "text": "tobula rega"
+    },
+    {
+      "id": 17027,
+      "text": "nemalonus pokalbis"
+    },
+    {
+      "id": 17026,
+      "text": "aplikacijos"
+    },
+    {
+      "id": 17025,
+      "text": "bijantis vėjo"
+    },
+    {
+      "id": 17024,
+      "text": "mobilusis"
+    },
+    {
+      "id": 17023,
+      "text": "blogos mintys"
+    },
+    {
+      "id": 17022,
+      "text": "visi žaidžiantys šitą žaidimą"
+    },
+    {
+      "id": 17021,
+      "text": "liūdnas hipsteris"
+    },
+    {
+      "id": 17020,
+      "text": "kai mokaisi ketvertais"
+    },
+    {
+      "id": 17019,
+      "text": "pelių vedžiotojas"
+    },
+    {
+      "id": 17018,
+      "text": "cicinas su radžiu"
+    },
+    {
+      "id": 17017,
+      "text": "sovietinis multikas"
+    },
+    {
+      "id": 17016,
+      "text": "septyyyyni"
+    },
+    {
+      "id": 17015,
+      "text": "pasaulio čampas"
+    },
+    {
+      "id": 17014,
+      "text": ":D"
+    },
+    {
+      "id": 17013,
+      "text": "gryna smarvė"
+    },
+    {
+      "id": 17012,
+      "text": "monopolis"
+    },
+    {
+      "id": 17011,
+      "text": "nieko nesuprantu"
+    },
+    {
+      "id": 17010,
+      "text": "kableliai"
+    },
+    {
+      "id": 17009,
+      "text": "pėstysis"
+    },
+    {
+      "id": 17008,
+      "text": "akmenukai"
+    },
+    {
+      "id": 17007,
+      "text": "valio! knygos!"
+    },
+    {
+      "id": 17006,
+      "text": "brangus laukinis tūlikas"
+    },
+    {
+      "id": 17005,
+      "text": "apšnerkšti namai"
+    },
+    {
+      "id": 17004,
+      "text": "blogiausia būklė"
+    },
+    {
+      "id": 17003,
+      "text": "gimimas"
+    },
+    {
+      "id": 17002,
+      "text": "vorų darželis lopšelis"
+    },
+    {
+      "id": 17001,
+      "text": "beveidis žmogus"
+    },
+    {
+      "id": 17000,
+      "text": "baldai"
+    },
+    {
+      "id": 16999,
+      "text": "dženga iš šūdų"
+    },
+    {
+      "id": 16998,
+      "text": "vaikas apsirengęs kaip Nausėda"
+    },
+    {
+      "id": 16997,
+      "text": "Šiauliai"
+    },
+    {
+      "id": 16996,
+      "text": "per daug ungurių"
+    },
+    {
+      "id": 16995,
+      "text": "tadas blinda"
+    },
+    {
+      "id": 16994,
+      "text": "šuniukų pagalvė"
+    },
+    {
+      "id": 16993,
+      "text": "patarmasas"
+    },
+    {
+      "id": 16992,
+      "text": "užsislapstinęs arklys"
+    },
+    {
+      "id": 16991,
+      "text": "sukamasis ratas"
+    },
+    {
+      "id": 16990,
+      "text": "smirdalius"
+    },
+    {
+      "id": 16989,
+      "text": "Spamas"
+    },
+    {
+      "id": 16988,
+      "text": "kastruotas drakonas"
+    },
+    {
+      "id": 16987,
+      "text": "abra kadabra"
+    },
+    {
+      "id": 16986,
+      "text": "klausimynas"
+    },
+    {
+      "id": 16985,
+      "text": "tinkamas kiekis kakų"
+    },
+    {
+      "id": 16984,
+      "text": "rokis 4 dalis"
+    },
+    {
+      "id": 16983,
+      "text": "kačiukas su kumštinėmis pirštinėmis"
+    },
+    {
+      "id": 16982,
+      "text": "asfafsasdas"
+    },
+    {
+      "id": 16981,
+      "text": "papypink jei lytiškai susijaudinai"
+    },
+    {
+      "id": 16980,
+      "text": "kūdikiai su jų kūdikiais"
+    },
+    {
+      "id": 16979,
+      "text": "akla saulė"
+    },
+    {
+      "id": 16978,
+      "text": "darbai"
+    },
+    {
+      "id": 16977,
+      "text": "faini žmonės"
+    },
+    {
+      "id": 16976,
+      "text": "auksinės mergelės"
+    },
+    {
+      "id": 16975,
+      "text": "miręs garfildas"
+    },
+    {
+      "id": 16974,
+      "text": "nepatinki tu man"
+    },
+    {
+      "id": 16973,
+      "text": "gyvūnų vestuvės"
+    },
+    {
+      "id": 16972,
+      "text": "augintojas, o ne demonstruotojas"
+    },
+    {
+      "id": 16971,
+      "text": "lenkiškas kumpis"
+    },
+    {
+      "id": 16970,
+      "text": "15 žvakių"
+    },
+    {
+      "id": 16969,
+      "text": "šutvė"
+    },
+    {
+      "id": 16968,
+      "text": "pakeliantis papus liemenukas"
+    },
+    {
+      "id": 16967,
+      "text": "Čekuolis"
+    },
+    {
+      "id": 16966,
+      "text": "teniso tuoletas"
+    },
+    {
+      "id": 16965,
+      "text": "pagrindinis vakarėlis"
+    },
+    {
+      "id": 16964,
+      "text": "baisūs emodžiai"
+    },
+    {
+      "id": 16963,
+      "text": "Linux sistema"
+    },
+    {
+      "id": 16962,
+      "text": "alkoholizmas"
+    },
+    {
+      "id": 16961,
+      "text": "meškos važiuojančios traukiniu"
+    },
+    {
+      "id": 16960,
+      "text": "raugalas"
+    },
+    {
+      "id": 16959,
+      "text": "labai daug vapsvų"
+    },
+    {
+      "id": 16958,
+      "text": "skardinė kumpio"
+    },
+    {
+      "id": 16957,
+      "text": "per mažai padažo"
+    },
+    {
+      "id": 16956,
+      "text": "proga"
+    },
+    {
+      "id": 16955,
+      "text": "po dviejų kėlinių"
+    },
+    {
+      "id": 16954,
+      "text": "pavydas"
+    },
+    {
+      "id": 16953,
+      "text": "maikė iš saldainių"
+    },
+    {
+      "id": 16952,
+      "text": "tamsieji amžiai"
+    },
+    {
+      "id": 16951,
+      "text": "renesanso žmogus"
+    },
+    {
+      "id": 16950,
+      "text": "džinsiniai šortai"
+    },
+    {
+      "id": 16949,
+      "text": "surink juos visus"
+    },
+    {
+      "id": 16948,
+      "text": "vėžlio kvapas"
+    },
+    {
+      "id": 16947,
+      "text": "pica katė namas ginklas"
+    },
+    {
+      "id": 16946,
+      "text": "labas rytas mirtie"
+    },
+    {
+      "id": 16945,
+      "text": "tas dūchas draugelis"
+    },
+    {
+      "id": 16944,
+      "text": "žymė"
+    },
+    {
+      "id": 16943,
+      "text": "berniukas burbuliukas"
+    },
+    {
+      "id": 16942,
+      "text": "apsimetėlis"
+    },
+    {
+      "id": 16941,
+      "text": "gyvūnų draudimas"
+    },
+    {
+      "id": 16940,
+      "text": "niekas"
+    },
+    {
+      "id": 16939,
+      "text": "mokesčiai"
+    },
+    {
+      "id": 16938,
+      "text": "krūva kabių"
+    },
+    {
+      "id": 16937,
+      "text": "kosmoso batai"
+    },
+    {
+      "id": 16936,
+      "text": "internetinis deitinimas"
+    },
+    {
+      "id": 16935,
+      "text": "astronauto karštas kubilas"
+    },
+    {
+      "id": 16934,
+      "text": "stresinis dinozauras"
+    },
+    {
+      "id": 16933,
+      "text": "virpančios kojos"
+    },
+    {
+      "id": 16932,
+      "text": "persėdimas"
+    },
+    {
+      "id": 16931,
+      "text": "uogiene išteptos rankos"
+    },
+    {
+      "id": 16930,
+      "text": "Ginkūnai"
+    },
+    {
+      "id": 16929,
+      "text": "buhalteris"
+    },
+    {
+      "id": 16928,
+      "text": "susikeitimas veidais"
+    },
+    {
+      "id": 16927,
+      "text": "hesburgeris"
+    },
+    {
+      "id": 16926,
+      "text": "parduotuvė kurioje vaidenasi"
+    },
+    {
+      "id": 16925,
+      "text": "taco salotos"
+    },
+    {
+      "id": 16924,
+      "text": "betmeno kaimynas"
+    },
+    {
+      "id": 16923,
+      "text": "nepaliekantis arbatpinigių"
+    },
+    {
+      "id": 16922,
+      "text": "keliautojas laiku"
+    },
+    {
+      "id": 16921,
+      "text": "keistas debesis"
+    },
+    {
+      "id": 16920,
+      "text": "chlamo tapytojas"
+    },
+    {
+      "id": 16919,
+      "text": "vampyrų futbolas"
+    },
+    {
+      "id": 16918,
+      "text": "labai gražus menas"
+    },
+    {
+      "id": 16917,
+      "text": "skrandis iš išorės"
+    },
+    {
+      "id": 16916,
+      "text": "namų kino teatras"
+    },
+    {
+      "id": 16915,
+      "text": "panikos kambarys"
+    },
+    {
+      "id": 16914,
+      "text": "mimosa"
+    },
+    {
+      "id": 16913,
+      "text": "atsistatydinęs vilkolakis"
+    },
+    {
+      "id": 16912,
+      "text": "elfai"
+    },
+    {
+      "id": 16911,
+      "text": "tuna"
+    },
+    {
+      "id": 16910,
+      "text": "super mario sesės"
+    },
+    {
+      "id": 16909,
+      "text": "paslėptas drakonas"
+    },
+    {
+      "id": 16908,
+      "text": "vienuolių autobusas"
+    },
+    {
+      "id": 16907,
+      "text": "banglentininkė ožka"
+    },
+    {
+      "id": 16906,
+      "text": "voro ataka"
+    },
+    {
+      "id": 16905,
+      "text": "bombioška"
+    },
+    {
+      "id": 16904,
+      "text": "nauji apatiniai"
+    },
+    {
+      "id": 16903,
+      "text": "moterys meluoja geriau 2"
+    },
+    {
+      "id": 16902,
+      "text": "1%"
+    },
+    {
+      "id": 16901,
+      "text": "tėčio šlipsai"
+    },
+    {
+      "id": 16900,
+      "text": "heštegai"
+    },
+    {
+      "id": 16899,
+      "text": "lazeriniai diskai"
+    },
+    {
+      "id": 16898,
+      "text": "blogas emodžis"
+    },
+    {
+      "id": 16897,
+      "text": "naudingas vaiduoklis"
+    },
+    {
+      "id": 16896,
+      "text": "vidurinio amžiaus krizė"
+    },
+    {
+      "id": 16895,
+      "text": "pudingas"
+    },
+    {
+      "id": 16894,
+      "text": "disnėjaus saugykla"
+    },
+    {
+      "id": 16893,
+      "text": "mediniai pinigai"
+    },
+    {
+      "id": 16892,
+      "text": "pasikėlęs mailius"
+    },
+    {
+      "id": 16891,
+      "text": "$$$"
+    },
+    {
+      "id": 16890,
+      "text": "pirato meilė"
+    },
+    {
+      "id": 16889,
+      "text": "užgavėnės"
+    },
+    {
+      "id": 16888,
+      "text": "velvetai"
+    },
+    {
+      "id": 16887,
+      "text": "šiknos problema"
+    },
+    {
+      "id": 16886,
+      "text": "greitas maistas"
+    },
+    {
+      "id": 16885,
+      "text": "sumo kūdikis"
+    },
+    {
+      "id": 16884,
+      "text": "daktaras policininkas"
+    },
+    {
+      "id": 16883,
+      "text": "koubojų debatai"
+    },
+    {
+      "id": 16882,
+      "text": "slaptas robotas"
+    },
+    {
+      "id": 16881,
+      "text": "ninzės spinta"
+    },
+    {
+      "id": 16880,
+      "text": "maksimos apsauginis"
+    },
+    {
+      "id": 16879,
+      "text": "geranoriškas"
+    },
+    {
+      "id": 16878,
+      "text": "breikdenceris"
+    },
+    {
+      "id": 16877,
+      "text": "klajumas"
+    },
+    {
+      "id": 16876,
+      "text": "Hip hopas"
+    },
+    {
+      "id": 16875,
+      "text": "autobiografija"
+    },
+    {
+      "id": 16874,
+      "text": "smegenys dėžutėje"
+    },
+    {
+      "id": 16873,
+      "text": "begalvė žirafa"
+    },
+    {
+      "id": 16872,
+      "text": "magiški bateliai"
+    },
+    {
+      "id": 16871,
+      "text": "slapta tapatybė"
+    },
+    {
+      "id": 16870,
+      "text": "kelnės iš bananų"
+    },
+    {
+      "id": 16869,
+      "text": "o bliamba, pirmadienis!"
+    },
+    {
+      "id": 16868,
+      "text": "pakmanas iš picos"
+    },
+    {
+      "id": 16867,
+      "text": "knygų klubas"
+    },
+    {
+      "id": 16866,
+      "text": "bratkiai"
+    },
+    {
+      "id": 16865,
+      "text": "mokslas"
+    },
+    {
+      "id": 16864,
+      "text": "klavišų solo"
+    },
+    {
+      "id": 16863,
+      "text": "labai sena varlė"
+    },
+    {
+      "id": 16862,
+      "text": "džiazo popietė"
+    },
+    {
+      "id": 16861,
+      "text": "vampyrų savaitgalis"
+    },
+    {
+      "id": 16860,
+      "text": "dantų šepetėlio pokštas"
+    },
+    {
+      "id": 16859,
+      "text": "bubis su kojomis"
+    },
+    {
+      "id": 16858,
+      "text": "Capri kelnės"
+    },
+    {
+      "id": 16857,
+      "text": "karvės ataka"
+    },
+    {
+      "id": 16856,
+      "text": "Pilates"
+    },
+    {
+      "id": 16855,
+      "text": "prašmatnus tūlikas"
+    },
+    {
+      "id": 16854,
+      "text": "kieti skilsai"
+    },
+    {
+      "id": 16853,
+      "text": "miegantys vienuoliai"
+    },
+    {
+      "id": 16852,
+      "text": "kai sapnuoji kad sapnuoji"
+    },
+    {
+      "id": 16851,
+      "text": "ne kvadratas"
+    },
+    {
+      "id": 16850,
+      "text": "kepenys"
+    },
+    {
+      "id": 16849,
+      "text": "mama feisbuke"
+    },
+    {
+      "id": 16848,
+      "text": "Aaaaaaaa!!!"
+    },
+    {
+      "id": 16847,
+      "text": "Snobas"
+    },
+    {
+      "id": 16846,
+      "text": "pametęs galvą dėl namelių medžiuose"
+    },
+    {
+      "id": 16845,
+      "text": "mažiuks laikroduks"
+    },
+    {
+      "id": 16844,
+      "text": "nematoma mašina"
+    },
+    {
+      "id": 16843,
+      "text": "mirtingumas"
+    },
+    {
+      "id": 16842,
+      "text": "smirdinčios rūros"
+    },
+    {
+      "id": 16841,
+      "text": "pusbroliai"
+    },
+    {
+      "id": 16840,
+      "text": "kupranugario pirštas"
+    },
+    {
+      "id": 16839,
+      "text": "piktas dešrainis"
+    },
+    {
+      "id": 16838,
+      "text": "penkios linijos"
+    },
+    {
+      "id": 16837,
+      "text": "plaukuoti speneliai"
+    },
+    {
+      "id": 16836,
+      "text": "aš ateityje"
+    },
+    {
+      "id": 16835,
+      "text": "nežinau"
+    },
+    {
+      "id": 16834,
+      "text": "melionas"
+    },
+    {
+      "id": 16833,
+      "text": "kalėdų atostogos"
+    },
+    {
+      "id": 16832,
+      "text": "pikta žuvis"
+    },
+    {
+      "id": 16831,
+      "text": "flash mobas"
+    },
+    {
+      "id": 16830,
+      "text": "palaidotas gyvas"
+    },
+    {
+      "id": 16829,
+      "text": "one.lt"
+    },
+    {
+      "id": 16828,
+      "text": "ryklio skrybėlė"
+    },
+    {
+      "id": 16827,
+      "text": "tampo čia kažką"
+    },
+    {
+      "id": 16826,
+      "text": "faini plaukai"
+    },
+    {
+      "id": 16825,
+      "text": "pirmas pasimatymas"
+    },
+    {
+      "id": 16824,
+      "text": "uranas"
+    },
+    {
+      "id": 16823,
+      "text": "šėtono namas"
+    },
+    {
+      "id": 16822,
+      "text": "grybai"
+    },
+    {
+      "id": 16821,
+      "text": "bėgiojimas be kelnių"
+    },
+    {
+      "id": 16820,
+      "text": "diabetas"
+    },
+    {
+      "id": 16819,
+      "text": "dygliakiaulių mokykla"
+    },
+    {
+      "id": 16818,
+      "text": "plastinė operacija"
+    },
+    {
+      "id": 16817,
+      "text": "nesąžininga kova"
+    },
+    {
+      "id": 16816,
+      "text": "kraujas"
+    },
+    {
+      "id": 16815,
+      "text": "dalykai"
+    },
+    {
+      "id": 16814,
+      "text": "kieti ūsai"
+    },
+    {
+      "id": 16813,
+      "text": "besimušantys mimai"
+    },
+    {
+      "id": 16812,
+      "text": "studijų baigimas"
+    },
+    {
+      "id": 16811,
+      "text": "veido bezdalai"
+    },
+    {
+      "id": 16810,
+      "text": "pradžia"
+    },
+    {
+      "id": 16809,
+      "text": "laimingas ir liūdnas veidas"
+    },
+    {
+      "id": 16808,
+      "text": "kietas šuo"
+    },
+    {
+      "id": 16807,
+      "text": "prancūzas"
+    },
+    {
+      "id": 16806,
+      "text": "Poetas"
+    },
+    {
+      "id": 16805,
+      "text": "vaiko mama"
+    },
+    {
+      "id": 16804,
+      "text": "pradinės klasės"
+    },
+    {
+      "id": 16803,
+      "text": "Adamkus"
+    },
+    {
+      "id": 16802,
+      "text": "kažkas iš Fojė atlikėjų"
+    },
+    {
+      "id": 16801,
+      "text": "nuoma"
+    },
+    {
+      "id": 16800,
+      "text": "Lietuviški Svingeriai"
+    },
+    {
+      "id": 16799,
+      "text": "Aš Žvaigždė"
+    },
+    {
+      "id": 16798,
+      "text": "iškrypėlis"
+    },
+    {
+      "id": 16797,
+      "text": "fainas tūsas"
+    },
+    {
+      "id": 16796,
+      "text": "vaikiška mašina"
+    },
+    {
+      "id": 16795,
+      "text": "netvarka čia"
+    },
+    {
+      "id": 16794,
+      "text": "čia tu!"
+    },
+    {
+      "id": 16793,
+      "text": "brendimas"
+    },
+    {
+      "id": 16792,
+      "text": "matematikos magas"
+    },
+    {
+      "id": 16791,
+      "text": "hitleris be ūsų"
+    },
+    {
+      "id": 16790,
+      "text": "panelės vaiduoklis"
+    },
+    {
+      "id": 16789,
+      "text": "keliamieji metai"
+    },
+    {
+      "id": 16788,
+      "text": "prašmatnus snarglys"
+    },
+    {
+      "id": 16787,
+      "text": "daktaras desertas"
+    },
+    {
+      "id": 16786,
+      "text": "kumpiai"
+    },
+    {
+      "id": 16785,
+      "text": "disko tėtis"
+    },
+    {
+      "id": 16784,
+      "text": "baisus kalėjimas"
+    },
+    {
+      "id": 16783,
+      "text": "šiltos bandelės"
+    },
+    {
+      "id": 16782,
+      "text": "moksliukų fortas"
+    },
+    {
+      "id": 16781,
+      "text": "GIF"
+    },
+    {
+      "id": 16780,
+      "text": "šūdų kelias"
+    },
+    {
+      "id": 16779,
+      "text": "tu pats blogiausias"
+    },
+    {
+      "id": 16778,
+      "text": "nesigavusios kalėdos"
+    },
+    {
+      "id": 16777,
+      "text": "nuotraukų negatyvas"
+    },
+    {
+      "id": 16776,
+      "text": "prancūzų kaminkrėtys"
+    },
+    {
+      "id": 16775,
+      "text": "veidas ir strėlė rodanti į nosį"
+    }
+  ]
+}

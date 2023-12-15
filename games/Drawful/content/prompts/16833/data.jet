@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kaledu atostogos|atostogos per kalėdas|atostogos per kaledas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kalėdų atostogos",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

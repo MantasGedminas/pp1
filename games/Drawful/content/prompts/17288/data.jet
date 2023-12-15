@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Neveikia tas pdf failas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Neveikia man tas pdf failas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

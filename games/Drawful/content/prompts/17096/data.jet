@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Klases nuotrauka su lazeriais fone",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Klasės nuotrauka su lazeriais fone",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369191_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

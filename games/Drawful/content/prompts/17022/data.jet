@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "visi zaidziantys sita zaidima|visi zaidziantys si zaidima|visi žaidžiantys šį žaidimą",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "visi žaidžiantys šitą žaidimą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

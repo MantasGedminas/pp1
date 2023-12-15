@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "meskos vaziuojancios traukiniu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "meškos važiuojančios traukiniu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Linuks sistema|linux",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Linux sistema",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368893_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

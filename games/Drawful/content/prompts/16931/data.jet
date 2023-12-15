@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "uogiene isteptos rankos",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "uogiene išteptos rankos",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

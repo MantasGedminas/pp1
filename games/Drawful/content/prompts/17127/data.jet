@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Kede kovojanti pries stala",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Kėdė kovojanti prieš stalą",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

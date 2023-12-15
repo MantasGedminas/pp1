@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Raudonaplaukis berniukas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Raudonplaukis berniukas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

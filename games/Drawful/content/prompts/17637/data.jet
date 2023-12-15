@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Perdurtas zvaigzdemis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Perdurtas žvaigždėmis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370815_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

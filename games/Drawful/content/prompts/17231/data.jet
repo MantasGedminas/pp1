@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Nekontroliuoju savo blogosios rankos!",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nekontroliuoju savo pasiutusios rankos!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

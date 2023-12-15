@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "brangus laukinis tulikas|brangus laukinis tualetas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "brangus laukinis tūlikas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

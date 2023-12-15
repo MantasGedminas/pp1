@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Jei gyvates nesiotu varlytes?",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Jei gyvatės nešiotų varlytes?",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369081_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

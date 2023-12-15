@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Lietuviu liaudies sokiai|Tautiniai šokiai|Tautiniai sokiai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Lietuvių liaudies šokiai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

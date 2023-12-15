@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Senolis skraidinantis aitvara",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Senolis skraidinantis aitvarą",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

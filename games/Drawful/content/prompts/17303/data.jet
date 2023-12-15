@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Paskutinis sostu karu sezonas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Paskutinis sostų karų sezonas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369710_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Penki zodziai|5 žodžiai|5 zodziai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Penki žodžiai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

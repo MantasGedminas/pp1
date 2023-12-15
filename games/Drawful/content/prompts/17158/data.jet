@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Bananu pilis|Bananinė pilis|Bananine pilis",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Bananų pilis",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

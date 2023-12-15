@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Servetele su nupiestu medziu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Servetėlė su nupieštu medžiu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370539_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

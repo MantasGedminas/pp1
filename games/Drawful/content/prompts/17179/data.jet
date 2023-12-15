@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Zmogus veidrodyje yra blogas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Žmogus veidrodyje yra blogas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369462_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

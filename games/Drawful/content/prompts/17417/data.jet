@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Pries 3 metus?|Pries 3 metus|Prieš 3 metus|Prieš tris metus?|Pries tris metus?|Prieš tris metus|Pries tris metus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Prieš 3 metus?",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

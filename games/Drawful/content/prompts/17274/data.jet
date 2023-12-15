@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Vampyras ir jo svogunas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vampyras ir jo svogūnas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

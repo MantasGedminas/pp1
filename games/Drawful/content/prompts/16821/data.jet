@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "begiojimas be kelniu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "bėgiojimas be kelnių",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

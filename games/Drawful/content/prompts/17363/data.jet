@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Švediškas stalas|Svediskas stalas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Valgyk kiek telpa bufetas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

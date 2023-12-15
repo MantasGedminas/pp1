@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Myliu si ilga sumustini",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Myliu šį ilgą sumuštinį",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

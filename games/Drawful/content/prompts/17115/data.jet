@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Atsibodo guleti apsikabinus",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Atsibodo gulėti apsikabinus",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Netycia nusiusta zinute",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Netyčia nusiųsta žinutė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

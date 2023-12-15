@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Milziniskas brokolis",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Milžiniškas brokolis",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369484_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

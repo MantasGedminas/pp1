@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Sachmatai is zmoniu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Šachmatai iš žmonių",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

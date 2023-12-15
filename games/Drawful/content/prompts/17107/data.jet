@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Maike ginklas|Maikės ginklas|Maikes ginklas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Maikė ginklas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

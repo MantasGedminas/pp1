@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "šiukšlių tapytojas|siuksliu tapytojas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "chlamo tapytojas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Poliarinis sukurys|Poliarinis sukūrys",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Poliarinis sūkurys",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

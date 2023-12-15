@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Piktas dedis po lova|Piktas dėdė po lova|Piktas dede po lova",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Piktas dėdis po lova",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

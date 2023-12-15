@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "siltos bandeles|karštos bandelės",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "šiltos bandelės",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368530_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

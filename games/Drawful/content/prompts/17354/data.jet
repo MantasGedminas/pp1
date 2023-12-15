@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Šešioliktas gimtadienis|Sesioliktas gimtadienis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "16 gimtadienis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "breikdanceris|breiko šokėjas|breiko sokejas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "breikdenceris",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

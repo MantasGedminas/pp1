@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Smirdintis ranku kremas|Smirdantis rankų kremas|Smirdantis ranku kremas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Smirdintis rankų kremas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

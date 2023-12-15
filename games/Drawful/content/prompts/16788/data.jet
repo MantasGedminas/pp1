@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "prašmatnus bubis|prabangus snarglys",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "prašmatnus snarglys",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368540_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

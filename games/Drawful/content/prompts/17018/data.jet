@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "cicinas ir radzis|cicinas ir radžis|cicinas su radziu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "cicinas su radžiu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

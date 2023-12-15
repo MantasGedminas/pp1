@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "I sveikata!!!!!!|Į sveikatą!!!|I sveikata!!!|Į sveikatą!|I sveikata!|Į sveikatą|I sveikata",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Į sveikatą!!!!!!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

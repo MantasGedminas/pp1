@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Slieku sriuba",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sliekų sriuba",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370672_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Mokslines fantastikos miegamasis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Mokslinės fantastikos miegamasis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

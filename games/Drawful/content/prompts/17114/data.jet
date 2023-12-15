@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Spoksojimas i sriuba ant dujines",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Spoksojimas į sriubą ant dujinės",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

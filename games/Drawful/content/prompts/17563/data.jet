@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Negyvelis hamake",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Negyvėlis hamake",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370252_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

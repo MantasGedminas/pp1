@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Sugedes majonezas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sugedęs majonezas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370572_0",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

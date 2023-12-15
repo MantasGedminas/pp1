@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kudikiai su ju kudikiais",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kūdikiai su jų kūdikiais",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

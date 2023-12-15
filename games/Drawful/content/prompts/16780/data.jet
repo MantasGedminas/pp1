@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "sudu kelias|išmatų kelias|kelias iš šūdų",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "šūdų kelias",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368523_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

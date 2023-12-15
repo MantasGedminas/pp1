@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Taip pareigune, jis mane apiplese!",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Taip pareigūne, jis mane apiplėšė!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

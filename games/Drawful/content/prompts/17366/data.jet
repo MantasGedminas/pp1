@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Seksualus dudmaisiai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Seksualūs dūdmaišiai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

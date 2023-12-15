@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Ziurejimas i savo portreta",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Žiūrėjimas į savo portretą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

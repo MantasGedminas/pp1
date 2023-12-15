@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "magnetine suniuko kepure su zvaigzdemis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "magnetinė šuniuko kepurė su žvaigždėmis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

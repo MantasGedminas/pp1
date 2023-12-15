@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Tripuse sankryza",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Tripusė sąnkryža",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370392_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

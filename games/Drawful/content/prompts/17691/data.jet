@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Vilkas su gigantisku magnetu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vilkas su gigantišku magnetu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

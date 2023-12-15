@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Moteris laikanti per didele sakute",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Moteris laikanti per didelę šakutę",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369959_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

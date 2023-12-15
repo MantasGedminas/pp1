@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Stikliukas agurku sulciu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Stikliukas agurkų sulčių",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370248_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

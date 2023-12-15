@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Pagiringa nindze|Pagiringa ninzė|Pagiringa ninze",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pagiringa nindzė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370617_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

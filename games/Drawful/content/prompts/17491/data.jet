@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Padengtas blizguciais|Padengtas blisgučiais|Padengtas blisguciais",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Padengtas blizgučiais",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

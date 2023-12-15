@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Kazkoks ciuvelis su apsiaustu",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Kažkoks čiuvelis su apsiaustu",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

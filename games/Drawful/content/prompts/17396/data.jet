@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Ziurke kokone",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Žiurkė kokone",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369910_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

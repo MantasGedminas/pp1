@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },r
+    {
+      "v": "lenkiskas kumpis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "lenkiškas kumpis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

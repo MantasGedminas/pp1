@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Dvyniai kovoja pries dvynius|Dvyniai prieš dvynius|Dvyniai pries dvynius",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dvyniai kovoja prieš dvynius",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370063_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

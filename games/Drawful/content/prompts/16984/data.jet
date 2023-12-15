@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "rokis ketvirta dalis|rokis 4| rokis keturi",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "rokis 4 dalis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

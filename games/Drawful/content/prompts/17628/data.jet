@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Gyvuno darymas is baliono",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Gyvūno darymas iš baliono",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

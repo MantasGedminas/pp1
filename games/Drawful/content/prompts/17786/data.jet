@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "labai netikeliskai nupiesta kate",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "labai netikėliškai nupiešta katė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

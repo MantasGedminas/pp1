@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "saldainiu dedis|saldainių dėdė|saldainiu dede",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "saldainių dėdis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

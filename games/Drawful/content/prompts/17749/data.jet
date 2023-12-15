@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Labai didelis siuntinys",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Laaaabai didelis siuntinys",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

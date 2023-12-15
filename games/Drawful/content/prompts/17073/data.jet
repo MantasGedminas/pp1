@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Tekila",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369129_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

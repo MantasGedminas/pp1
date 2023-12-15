@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Jonukas ir Gretute|Jonukas ir Gritutė|Jonukas ir Gritute",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Jonukas ir Gretutė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370587_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

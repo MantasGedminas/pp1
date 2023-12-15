@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "smirdincios ruros|dvokiančios subinės|dvokiancios subines",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "smirdinčios rūros",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

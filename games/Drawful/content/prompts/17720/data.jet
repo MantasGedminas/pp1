@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Milzinas su miniatiuriniu kudikiu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Milžinas su miniatiūriniu kūdikiu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

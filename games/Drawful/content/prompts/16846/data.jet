@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "pametes galva del nameliu medziuose|apsėstas nameliais medžiuose|apsestas nameliais medziuose",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "pametęs galvą dėl namelių medžiuose",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

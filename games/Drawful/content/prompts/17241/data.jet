@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kiauliu persirengimo kabina|Kiaulių persirengimo kambarys|Kiauliu persirengimo kambarys",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kiaulių persirengimo kabina",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

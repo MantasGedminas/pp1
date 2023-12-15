@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Geriau sio namo butume nepirke",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Geriau šio namo būtume nepirkę",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

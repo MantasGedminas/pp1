@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Apsimeti kietu nors ir apsislapinai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Apsimeti kietu nors ir apsišlapinai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

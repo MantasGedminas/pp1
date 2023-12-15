@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Tebunieeee! Tebunieeee!|Tebūnie! Tebūnie!|Tebunie! Tebunie!",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Tebūnieeee! Tebūnieeee!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

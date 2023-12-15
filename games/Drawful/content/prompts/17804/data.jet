@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "statybu kodekso pazeidimas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "statybų kodekso pažeidimas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

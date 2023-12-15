@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kiausinmobilis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kiaušinmobilis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370204_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

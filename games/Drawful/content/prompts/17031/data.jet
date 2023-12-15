@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "astuoniasdesimtieji|1980",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "aštuoniasdešimtieji",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

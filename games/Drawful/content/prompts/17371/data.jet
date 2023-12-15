@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Mama ir tetis buciuojasi",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Mama ir tėtis bučiuojasi",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369846_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Ji angelas ne zmogus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ji angelas ne žmogus",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370575_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

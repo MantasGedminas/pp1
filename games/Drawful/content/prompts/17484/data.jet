@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kur keliauja dingusios kojines|Kur keliauja dingusios koinės|Kur keliauja dingusios koines",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kur keliauja dingusios kojinės",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

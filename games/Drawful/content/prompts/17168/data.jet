@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "WTF, mociute?!!",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "WTF, močiute?!!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369440_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

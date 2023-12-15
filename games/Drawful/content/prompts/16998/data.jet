@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "vaikas apsirenges kaip Nauseda",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "vaikas apsirengęs kaip Nausėda",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Dzekas skerdikas|Džakas skerdikas|Dzakas skerdikas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Džekas skerdikas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Lietuviu kalba man antra",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Lietuvių kalba man antra",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

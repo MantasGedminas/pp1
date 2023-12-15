@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "15 zvakiu|penkiolika žvakių|penkiolika zvakiu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "15 žvakių",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

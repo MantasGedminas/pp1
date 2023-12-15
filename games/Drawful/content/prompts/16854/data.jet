@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kieti įgudžiai|kieti igudziai|kieti skilai|kieti skillai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kieti skilsai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

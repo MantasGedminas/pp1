@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Granito pavirsius",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Granito paviršius",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369772_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

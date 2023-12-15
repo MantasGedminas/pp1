@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Visiski degradai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Visiški degradai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370095_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "karves ataka|atakuojanti karvė|atakuojanti karve",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "karvės ataka",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "pasaulio campas|pasaulio cempionatas|pasaulio čempionatas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "pasaulio čampas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

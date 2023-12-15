@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Beizbolo zaidejas musantis gonga",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Beizbolo žaidėjas mušantis gongą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

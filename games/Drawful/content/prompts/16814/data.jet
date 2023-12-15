@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kieti usai|faini ūsai|faini usai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kieti ūsai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

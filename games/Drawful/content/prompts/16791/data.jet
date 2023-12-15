@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "hitleris be usu|hitleris neturintis ūsų",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "hitleris be ūsų",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

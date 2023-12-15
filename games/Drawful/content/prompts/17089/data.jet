@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Nesigaves klonas|nevykęs klonas|nevykes klonas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Nesigavęs klonas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

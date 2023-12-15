@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Raugintu agurku traukinys atvaziuoja!|Raugintų agurkų traukinys atvažiuoja|Raugintu agurku traukinys atvaziuoja",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Raugintų agurkų traukinys atvažiuoja!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370214_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

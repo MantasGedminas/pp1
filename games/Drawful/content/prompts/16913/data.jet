@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "atsistatydines vilkolakis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "atsistatydinęs vilkolakis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

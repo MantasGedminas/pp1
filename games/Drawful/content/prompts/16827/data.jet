@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "tampo cia kazka|kažką tampo|kazka tampo",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "tampo čia kažką",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

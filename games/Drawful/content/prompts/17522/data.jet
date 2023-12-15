@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Suo taksas zaidziantis golfa",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Šuo taksas žaidžiantis golfą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370167_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

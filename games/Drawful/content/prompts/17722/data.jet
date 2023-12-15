@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Maiselis su baisiais dantimis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Maišelis su baisiais dantimis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

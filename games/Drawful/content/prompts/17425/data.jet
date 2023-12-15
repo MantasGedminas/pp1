@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "As tave mylejau",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Aš tave mylėjau",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369973_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

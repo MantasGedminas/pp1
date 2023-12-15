@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Vaiko nupiestas seimos paveikslas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vaiko nupieštas šeimos paveikslas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

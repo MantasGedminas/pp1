@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kietas suo|krūtas šuo|krutas suo",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kietas šuo",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368581_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

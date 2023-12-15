@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "labai lengva smegenu operacija!",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "labai lengva smegenų operacija!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369472_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

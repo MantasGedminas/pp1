@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Is kur tas arklys mano fermoje?",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Iš kur tas arklys mano fermoje?",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370809_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

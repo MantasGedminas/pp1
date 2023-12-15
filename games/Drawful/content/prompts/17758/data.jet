@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Puse arklio ir puse seseles|Puse arklio, puse seseles|Pusė arklio ir pusė seselės",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pusė arklio, pusė seselės",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Brodvejaus kandidatas|Kandidatas į Brodvėjų|Kandidatas i Brodveju",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Brodvėjaus kandidatas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Brokoliu klizma",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Brokolių klizma",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370169_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

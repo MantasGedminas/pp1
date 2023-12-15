@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ką visi galvoja apie <RANDOM_PLAYER_NAME>",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369510_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

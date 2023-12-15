@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Smagus egzorcizmas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369454_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

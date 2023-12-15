@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Atsivesk vaika i darba diena",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Atsivesk vaiką į darbą diena",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

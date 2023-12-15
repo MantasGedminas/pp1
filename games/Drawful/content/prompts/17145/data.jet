@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Suo su rentgeno spinduliu rega",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Šuo su rentgeno spindulių rega",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

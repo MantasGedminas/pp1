@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "moterys meluoja geriau du",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "moterys meluoja geriau 2",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

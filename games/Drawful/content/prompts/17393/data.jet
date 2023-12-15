@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Zmones bute virs musu labai triuksmauja",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Žmonės bute virš mūsų labai triukšmauja",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

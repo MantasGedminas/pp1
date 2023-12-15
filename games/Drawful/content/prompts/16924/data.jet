@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "batmeno kaimynas|batmano kaimynas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "betmeno kaimynas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

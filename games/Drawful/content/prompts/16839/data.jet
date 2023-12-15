@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "piktas hot dogas|piktas desrainis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "piktas dešrainis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

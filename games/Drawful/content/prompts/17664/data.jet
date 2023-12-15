@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Paspausk mygtuką gauk šuduką|Paspausk mygtuka gauk suduka",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Paspausk mygtuką gauk šūduką",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

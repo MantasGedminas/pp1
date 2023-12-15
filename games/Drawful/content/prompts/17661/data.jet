@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "O ne, mes neapsidraude!",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "O ne, mes neapsidraudę!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

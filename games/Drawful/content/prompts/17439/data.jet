@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Apsirenges odiniais rubais",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Apsirengęs odiniais rūbais",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

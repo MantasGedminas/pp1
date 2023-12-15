@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "tritaskiu zonos baidykle",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "tritaškių zonos baidyklė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

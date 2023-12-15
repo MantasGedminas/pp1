@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Mediniai amerikietiskieji kalneliai",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Mediniai amerikietiškieji kalneliai",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

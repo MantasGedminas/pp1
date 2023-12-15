@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "As zvaigzde|Aš esu žvaigždė|As esu zvaigzde",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Aš Žvaigždė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368563_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

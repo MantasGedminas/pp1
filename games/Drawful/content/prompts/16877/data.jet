@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Dominykas Klajumas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "klajumas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368719_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

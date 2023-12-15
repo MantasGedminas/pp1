@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "netvarka cia|netvarka|tiesiog netvarka",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "netvarka čia",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

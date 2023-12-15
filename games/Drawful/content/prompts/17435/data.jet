@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kisene pilna kriptonito",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kišenė pilna kriptonito",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

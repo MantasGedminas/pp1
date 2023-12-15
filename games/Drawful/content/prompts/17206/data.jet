@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Mano pranesimu gaviklis nenustoja pypseti",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Mano pranešimų gaviklis nenustoja pypsėti",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Gigantiska kates galva puolanti baznycia",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Gigantiška katės galva puolanti bažnyčią",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

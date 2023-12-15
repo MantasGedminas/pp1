@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Trys ciuvai su skrybelemis ir vienas be",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Trys čiuvai su skrybėlėmis ir vienas be",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

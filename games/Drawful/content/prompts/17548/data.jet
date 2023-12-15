@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Sausainiai su uznuodytu ketciupu|Sausainiai su užnuodytu kečiupu|Sausainiai su uznuodytu keciupu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sausainiai su užnuodytu ketčiupu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370222_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "As tuoj suvalgysiu tuos suniukus!",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Aš tuoj suvalgysiu tuos šuniukus!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

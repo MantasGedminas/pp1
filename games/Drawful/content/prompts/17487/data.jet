@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Vilkolokiu universitetas|Vilkolakių universitetas|Vilkolakiu universitetas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vilkolokių universitetas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

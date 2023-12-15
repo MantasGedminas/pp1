@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Bek skusk prakaituok, tevo triusikus nesiok",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bėk skųsk prakaituok, tėvo triusikus nešiok",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

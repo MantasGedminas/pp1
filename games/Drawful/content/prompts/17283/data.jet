@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Mirtini kandziai|Mirtini uodai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Mirtini kandžiai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

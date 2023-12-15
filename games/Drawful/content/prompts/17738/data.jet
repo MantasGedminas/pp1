@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Durnelis kuris nerenka savo suns minu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Durnelis kuris nerenka savo šuns minų",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

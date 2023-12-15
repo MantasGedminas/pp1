@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Suo sapnuojantis vaiduoklius",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Šuo sapnuojantis vaiduoklius",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

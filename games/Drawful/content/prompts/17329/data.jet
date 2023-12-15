@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Telefoninis pokalbis tarp nameliu medziuose",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Telefoninis pokalbis tarp namelių medžiuose",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Jurlige susirges Serlokas Holmsas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Jūrlige susirgęs Šerlokas Holmsas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370220_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

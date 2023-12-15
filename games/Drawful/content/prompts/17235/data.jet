@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Mullet šukuosenos grįžo!|Mullet sukuosenos grizo!|Kefales sukuosenos grizo!",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kefalės šukuosenos grįžo!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

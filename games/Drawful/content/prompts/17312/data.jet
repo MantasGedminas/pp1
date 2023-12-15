@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Numestas telefonas i klozeta",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Numestas telefonas į klozetą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

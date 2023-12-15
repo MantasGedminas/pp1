@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Padekite! As visas padengtas siurbelemis!",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Padėkite! Aš visas padengtas siurbėlėmis!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

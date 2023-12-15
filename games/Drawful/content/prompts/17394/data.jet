@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Isprotejes padavejas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Išprotėjęs padavėjas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369906_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

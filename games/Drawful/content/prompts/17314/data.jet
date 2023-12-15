@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kreminis kremas pries su gabaliukais",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kreminis kremas prieš su gabaliukais",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369732_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

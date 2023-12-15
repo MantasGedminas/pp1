@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Pasturgali purtantis karalius",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pasturgalį purtantis karalius",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369172_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

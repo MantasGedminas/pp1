@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Nauju metu pazadai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Naujų metų pažadai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370768_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "disko tetis|tėtis šokėjas|šokėjas tėtis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "disko tėtis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

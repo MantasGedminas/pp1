@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Keistai besijuokiantis zmogelis",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Keistai besijuokiantis žmogelis",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369183_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

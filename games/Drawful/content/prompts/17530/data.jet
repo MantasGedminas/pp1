@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Mirties bausme gaunanti pagalve",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Mirties bausmę gaunanti pagalvė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

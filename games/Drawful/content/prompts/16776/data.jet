@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "prancuzu kaminkretis|prancuzu kaminkretys|kaminkrėtys iš prancūzijos",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "prancūzų kaminkrėtys",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

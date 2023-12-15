@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Nuobodus fejerverkai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nuobodūs fejerverkai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

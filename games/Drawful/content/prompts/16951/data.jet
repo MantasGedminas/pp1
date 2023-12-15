@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "renesanso zmogus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "renesanso žmogus",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368869_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

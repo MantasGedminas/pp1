@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Neuzmiegu per tuos paukscius",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Neužmiegu per tuos paukščius",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

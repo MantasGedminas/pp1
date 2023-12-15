@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Furos vairuotojas su maza kepurele",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Fūros vairuotojas su maža kepurėle",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

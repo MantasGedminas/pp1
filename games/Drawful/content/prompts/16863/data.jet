@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "labai sena varle|pasenusi varlė|pasenusi varle",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "labai sena varlė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

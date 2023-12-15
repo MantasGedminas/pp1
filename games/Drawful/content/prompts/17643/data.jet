@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Bugnas is sausainiu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bugnas iš sausainių",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370833_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

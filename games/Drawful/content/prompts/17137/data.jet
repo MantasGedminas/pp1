@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Hotdogu ir sukamu lanku vakarelis",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hotdogų ir sukamų lankų vakarėlis",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

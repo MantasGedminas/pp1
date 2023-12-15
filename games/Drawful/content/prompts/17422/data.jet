@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Sausi pusryciai su vandeniu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sausi pusryčiai su vandeniu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

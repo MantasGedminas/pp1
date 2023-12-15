@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Gailiuosi tai issitatuiraves|Gailiuosi tatuiruotės|Gailiuosi tatuiruotes",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Gailiuosi tai išsitatuiravęs",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

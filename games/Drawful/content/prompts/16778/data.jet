@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "nepavykusios kalėdos|lievos kalėdos|nesigavusios kaledos",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "nesigavusios kalėdos",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368519_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

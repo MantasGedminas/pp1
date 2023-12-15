@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Paveikslelis pirktas kartu su remu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Paveikslėlis pirktas kartu su rėmu",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

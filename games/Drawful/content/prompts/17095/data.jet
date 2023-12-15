@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Tas filmas su zalia kauke",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Tas filmas su žalia kauke",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369189_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

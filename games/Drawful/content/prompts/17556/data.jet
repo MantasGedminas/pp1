@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kaip as gavau si nasosa",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kaip aš gavau šį nasosą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

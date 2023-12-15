@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "siknos problema|subines problema|subinės problema|šiknos bėdos|siknos bedos",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "šiknos problema",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

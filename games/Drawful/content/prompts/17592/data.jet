@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Saltis ateinantis is vakaru",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Šaltis ateinantis iš vakarų",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370560_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

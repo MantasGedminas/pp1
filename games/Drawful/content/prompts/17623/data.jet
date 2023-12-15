@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Nereikejo mums pirkti sio namo",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nereikėjo mums pirkti šio namo",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "prasmatnus tulikas|prašmatnus tuoletas|prasmatnus tuoletas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "prašmatnus tūlikas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

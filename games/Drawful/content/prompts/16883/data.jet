@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kouboju debatai|kauboju debatai|kaubojų debatai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "koubojų debatai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

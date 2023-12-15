@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Valdas Adamkus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Adamkus",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368571_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

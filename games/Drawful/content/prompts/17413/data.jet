@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Ta savarzele is Microsoft Word|Ta sąvaržėlė iš Wordo|Ta savarzele is Wordo",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ta sąvaržėlė iš Microsoft Word",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

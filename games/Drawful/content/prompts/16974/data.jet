@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "nepatinki man|tu man nepatinki",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "nepatinki tu man",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Moteris ir jos antros vietos trofejus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Moteris ir jos antros vietos trofėjus",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

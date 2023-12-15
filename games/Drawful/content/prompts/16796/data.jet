@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "vaikiska masina|kūdikio mašina|kudikio masina",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "vaikiška mašina",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "foto negatyvas|nuotraukos negatyvas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "nuotraukų negatyvas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

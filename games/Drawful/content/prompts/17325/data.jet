@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Piesinys ant telefono ekrano",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Piešinys ant telefono ekrano",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369754_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

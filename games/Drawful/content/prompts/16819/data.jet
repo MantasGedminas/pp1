@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "dygliakiauliu mokykla",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "dygliakiaulių mokykla",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

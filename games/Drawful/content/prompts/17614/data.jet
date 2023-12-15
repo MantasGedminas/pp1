@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Ar gali siame paveikslelyje rasti pauksti?",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ar gali šiame paveikslėlyje rasti paukštį?",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

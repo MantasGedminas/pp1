@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "gyvunu draudimas|draudimas gyvūnams|draudimas gyvunams",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "gyvūnų draudimas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

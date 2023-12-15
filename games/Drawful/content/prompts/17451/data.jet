@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "IKEA irankis|Ikėja įrankis|Ikeja irankis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "IKEA įrankis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

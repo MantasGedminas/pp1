@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "as ateityje|ateities aš|ateities as",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "aš ateityje",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

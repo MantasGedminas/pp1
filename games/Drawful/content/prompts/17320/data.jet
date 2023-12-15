@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Uzpiesti antakiai|Nupiešti antakiai|Nupiesti antakiai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Užpiešti antakiai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

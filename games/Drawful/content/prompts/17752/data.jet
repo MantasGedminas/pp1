@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "I kluba apsivilkes mociutes ruba",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Į klubą apsivilkęs močiutės rūbą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

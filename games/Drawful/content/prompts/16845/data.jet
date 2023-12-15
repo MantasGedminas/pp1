@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "maziuks laikroduks|mazas laikrodis|mažas laikrodis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "mažiuks laikroduks",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368655_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

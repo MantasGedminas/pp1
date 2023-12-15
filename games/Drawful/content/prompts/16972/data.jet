@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "augintojas, ne demonstruotojas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "augintojas, o ne demonstruotojas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368911_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

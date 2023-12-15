@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "parduotuvės apsauginis|parduotuves apsauginis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "maksimos apsauginis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

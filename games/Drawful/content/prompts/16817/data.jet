@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "nesazininga kova|nelygi kova",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "nesąžininga kova",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

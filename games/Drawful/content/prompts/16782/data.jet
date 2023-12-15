@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "moksliuku fortas|mokslo guzų fortas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "moksliukų fortas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

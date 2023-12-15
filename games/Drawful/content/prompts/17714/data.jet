@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Apyranke is cinamonines bandeles",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Apyrankė iš cinamoninės bandelės",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

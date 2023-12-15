@@ -1,0 +1,24 @@
+{
+    "fields":
+    [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Daktaro Frankensteino ofisas|Daktaro Frankenšteino kabinetas|Daktaro Frankensteino kabinetas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Daktaro Frankenšteino ofisas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

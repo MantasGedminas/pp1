@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "tas duchas draugelis|tas kvailas draugelis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "tas dūchas draugelis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

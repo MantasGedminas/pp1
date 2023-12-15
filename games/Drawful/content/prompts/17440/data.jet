@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Vilku paradas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vilkų paradas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370003_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

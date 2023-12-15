@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Baltoji meska gerianti alu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Baltoji meška gerianti alų",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

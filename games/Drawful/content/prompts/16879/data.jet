@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "geranoriskas|geras žmogus|geras zmogus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "geranoriškas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Budoje gyvenanti kate|Būdoje gyvenantis katinas|Budoje gyvenantis katinas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Būdoje gyvenanti katė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

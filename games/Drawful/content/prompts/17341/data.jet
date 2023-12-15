@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Kolibriu balnas|Kolibrio balnas",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Kolibrių balnas",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

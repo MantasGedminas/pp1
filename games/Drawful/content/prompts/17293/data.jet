@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Zuvis milzine ziurinti per laivo langa",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Žuvis milžinė žiūrinti per laivo langą",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

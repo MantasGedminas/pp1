@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "sustresavęs dinozauras|sustresaves dinozauras",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "stresinis dinozauras",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

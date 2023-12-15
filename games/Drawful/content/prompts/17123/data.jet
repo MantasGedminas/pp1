@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Nusivylusios namu seimininkes",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Nusivylusios namų šeimininkės",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369247_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

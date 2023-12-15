@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Jis Tau Meluoja",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Jis Tau Meluoja by Pikaso",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369432_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

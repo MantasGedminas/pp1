@@ -1,0 +1,25 @@
+{
+    "fields":
+    [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Visi žino kad tu praplikęs|Visi zino kad tu praplikes|Visi zino, kad tu praplikes",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Visi žino, kad tu praplikęs",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369185_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

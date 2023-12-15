@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "veido bezdalas|bezdėti veidu|bezdeti veidu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "veido bezdalai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Baik spoksoti i mano ciuptuvus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Baik spoksoti į mano čiuptuvus",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370171_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

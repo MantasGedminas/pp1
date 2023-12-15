@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Ikru kibiras",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ikrų kibiras",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370611_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Sukciavimas zaidziant kryziukus nuliukus",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sukčiavimas žaidžiant kryžiukus nuliukus",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "pirato meile|piratų meilė|piratu meile",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "pirato meilė",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

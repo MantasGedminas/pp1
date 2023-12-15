@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kelnes is bananu|bananinės kelnės|bananines kelnes",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kelnės iš bananų",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

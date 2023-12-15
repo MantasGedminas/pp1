@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Stikmenas su tikromis rankomis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Stickmenas su tikromis rankomis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370250_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

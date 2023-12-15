@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Graziai pasidazes dramblys",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Gražiai pasidažęs dramblys",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

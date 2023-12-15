@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "papypink jei lytiskai susijaudinai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "papypink jei lytiškai susijaudinai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

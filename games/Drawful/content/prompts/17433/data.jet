@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Pamirsau parasiuta!|Pamirsau parasiuta|Pamiršau parašiutą",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pamiršau parašiutą!",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

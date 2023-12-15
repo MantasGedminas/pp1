@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Arbatos maiselis",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Arbatos maišelis",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369947_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

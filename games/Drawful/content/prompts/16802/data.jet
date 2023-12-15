@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "kazkas is Foje atlikeju|kazkas is Foje|kažkas iš Fojė",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "kažkas iš Fojė atlikėjų",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

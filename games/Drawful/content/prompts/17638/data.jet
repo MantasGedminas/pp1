@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Per daug pinigu turejau tai ir nusipirkau masina",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Per daug pinigų turėjau tai ir nusipirkau mašiną",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

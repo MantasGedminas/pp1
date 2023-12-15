@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Parduodama: kudikio batai, nepanaudoti",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Parduodama: kūdikio batai, nepanaudoti",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369971_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

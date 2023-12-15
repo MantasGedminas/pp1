@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Aciu paciu pabuciuok i peciu",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ačiū pačiū pabučiuok į pečių",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

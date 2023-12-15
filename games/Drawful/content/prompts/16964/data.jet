@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "baisus emodziai|baisūs jaustukai|baisus jaustukai",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "baisūs emodžiai",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}
